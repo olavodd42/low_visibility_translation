@@ -12,3 +12,4 @@ data/*.txt
 *.json
 lib*
 *.ipynb
+outputs
