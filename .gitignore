@@ -7,3 +7,8 @@ models
 cuda*
 lib*
 setup*
+data/*.txt
+=0.93
+*.json
+lib*
+*.ipynb
