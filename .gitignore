@@ -7,7 +7,7 @@ models
 cuda*
 lib*
 setup*
-data/*.txt
+data/parallel.txt
 =0.93
 *.json
 lib*
