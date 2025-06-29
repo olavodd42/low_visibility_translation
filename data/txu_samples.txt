@@ -1,691 +1,691 @@
 ba muw  I cry
-ba muw  I cried
+ba muw	I cried
 ba ngõr I sleep
-ba ngõr I slept
-ba mrã  I walk
-ba mrã  I walked
-ga muw  you cry
-ga muw  you cried
+ba ngõr I slep
+ba mrã	I walk
+ba mrã	I walked
+ga muw	you cry
+ga muw	you cried
 ga ngõr you sleep
 ga ngõr you slept
-ga mrã  you walk
-ga mrã  you walked
-kôkôti muw  kôkôti cry
-kôkôti muw  kôkôti cried
+ga mrã	you walk
+ga mrã	you walked
+kôkôti muw	kôkôti cry
+kôkôti muw	kôkôti cried
 kôkôti ngõr kôkôti sleep
 kôkôti ngõr kôkôti slept
-kôkôti mrã  kôkôti walk
-kôkôti mrã  kôkôti walked
-# muw   he cries
-# muw   he cried
-# ngõr  he sleeps
-# ngõr  he slept
-# mrã   he walks
-# mrã   he walked
-gu me muw   we cry
-gu me muw   we cried
-gu me ngõr  we sleep
-gu me ngõr  we slept
-gu me mrã   we walk
-gu me mrã   we walked
-ba me muw   we cry
-ba me muw   we cried
-ba me ngõr  we sleep
-ba me ngõr  we slept
-ba me mrã   we walk
-ba me mrã   we walked
+kôkôti mrã	kôkôti walk
+kôkôti mrã	kôkôti walked
+# muw	 he cries
+# muw	 he cried
+# ngõr	he sleeps
+# ngõr	he slept
+# mrã	 he walks
+# mrã	 he walked
+gu me muw	 we cry
+gu me muw	 we cried
+gu me ngõr	we sleep
+gu me ngõr	we slept
+gu me mrã	 we walk
+gu me mrã	 we walked
+ba me muw	 we cry
+ba me muw	 we cried
+ba me ngõr	we sleep
+ba me ngõr	we slept
+ba me mrã	 we walk
+ba me mrã	 we walked
 gar muw we cry
 gar muw we cried
-gar ngõr    we sleep
-gar ngõr    we slept
-gar mrã   we walk
-gar mrã   we walked
-me muw  they cry
-me muw  they cried
+gar ngõr		we sleep
+gar ngõr		we slept
+gar mrã	 we walk
+gar mrã	 we walked
+me muw	they cry
+me muw	they cried
 me ngõr they sleep
 me ngõr they slept
-me mrã  they walk
-me mrã  they walked
+me mrã	they walk
+me mrã	they walked
 ba môp kaba I dig cará
 ba jàt kaba I dig yams
 ba kwỳr kaba I dig manioc
 ba tyrti kaba I dig bananas
 ba môp kaba I dig cará
 ba krãtỳx ngre kaba I dig the turtle eggs
-ba kà kaba  I skinned the animal
-ba karõ kaba    I took the photograph
+ba kà kaba	I skinned the animal
+ba karõ kaba		I took the photograph
 ba krãtỳx ngre kaba I dig the turtle eggs
 ba krãtỳx ngre kaba I dig the turtle eggs
 ba môp kaba I dug cará
 ga môp kaba you dug cará
-gwaj môp kaba   we dug cará
-gu me môp kaba  we dug cará
+gwaj môp kaba	 we dug cará
+gu me môp kaba	we dug cará
 ar môp kaba they dug cará
 me môp kaba they dug cará
 ba môp kaba I dug cará
-ba môp krẽ  I ate cará
-ba môp kre  I planted cará
-ba môp ga   I baked cará in an earth oven
-ba môp tu   I carried cará in a basket
+ba môp krẽ	I ate cará
+ba môp kre	I planted cará
+ba môp ga	 I baked cará in an earth oven
+ba môp tu	 I carried cará in a basket
 ba môp kaba I dug cará
-Ba # kôo kubĩ   I killed it with a stick
-Ba # katõko kubĩ   I killed it with a rifle
-Ba # kruwo kubĩ   I killed it with an arrow
-Ba # kopo kubĩ   I killed it with a club
-Ba # kẽno kubĩ   I killed it with a rock
-Ba # kàxo kubĩ   I killed it with a machete
-ga # kàxo kubĩ   you killed it with a machete
-Kôkôti # kàxo kubĩ   Kôkôti killed it with a machete
-# # kàxo kubĩ   He killed it with a machete
-gar # kàxo kubĩ   you killed it with a machete
-ga me # kàxo kubĩ   you killed it with a machete
-me # kàxo kubĩ   they killed it with a machete
-ba # kàxo kaba   I dug it with a machete
-ba # kàxo karê   I cleared it with a machete
-ba # kàxo kukà   I cut it with a machete
+Ba # kôo kubĩ	 I killed it with a stick
+Ba # katõko kubĩ	 I killed it with a rifle
+Ba # kruwo kubĩ	 I killed it with an arrow
+Ba # kopo kubĩ	 I killed it with a club
+Ba # kẽno kubĩ	 I killed it with a rock
+Ba # kàxo kubĩ	 I killed it with a machete
+ga # kàxo kubĩ	 you killed it with a machete
+Kôkôti # kàxo kubĩ	 Kôkôti killed it with a machete
+# # kàxo kubĩ	 He killed it with a machete
+gar # kàxo kubĩ	 you killed it with a machete
+ga me # kàxo kubĩ	 you killed it with a machete
+me # kàxo kubĩ	 they killed it with a machete
+ba # kàxo kaba	 I dug it with a machete
+ba # kàxo karê	 I cleared it with a machete
+ba # kàxo kukà	 I cut it with a machete
 ba amã môp kaba I dug carà for you
 ba amã môp kaba I dug carà to you
 ba amã jàt kaba I dug yams for you
 ba amã jàt kaba I dug yams to you
-ba amã kwỳr kaba    I dug manioc for you
-ba amã kwỳr kaba    I dug manioc to you
-ba amã tyrti kaba   I dug bananas for you
-ba amã tyrti kaba   I dug bananas to you
+ba amã kwỳr kaba		I dug manioc for you
+ba amã kwỳr kaba		I dug manioc to you
+ba amã tyrti kaba	 I dug bananas for you
+ba amã tyrti kaba	 I dug bananas to you
 ba amã krãtỳx ngre kaba I dug the turtle eggs for you
 ba amã krãtỳx ngre kaba I dug the turtle eggs to you
-ba amã kà kaba  I dug the animal for you
-ba amã kà kaba  I dug the animal to you
-ba amã karõ kaba    I dug the photograph for you
-ba amã karõ kaba    I dug the photograph to you
-ba amã tyrti kaba   I dug bananas for you
-ba amã tyrti kaba   I dug bananas to you
-Ba amĩm môp kaba   I dug cará for myself
-Ba Kôkôtimã môp kaba    I dug cará for Kôkôti
+ba amã kà kaba	I dug the animal for you
+ba amã kà kaba	I dug the animal to you
+ba amã karõ kaba		I dug the photograph for you
+ba amã karõ kaba		I dug the photograph to you
+ba amã tyrti kaba	 I dug bananas for you
+ba amã tyrti kaba	 I dug bananas to you
+Ba amĩm môp kaba	 I dug cará for myself
+Ba Kôkôtimã môp kaba		I dug cará for Kôkôti
 ba kum môp kaba I dug cará for him
 Ba kum môp kaba I dug cará for her
-Ba me kum môp kaba  I dug cará for them
-Ba mekmã môp kaba   I dug cará for them
-Ba ar imã môp kaba  I dug cará for us
-Ba ar amã môp kaba  I dug cará for you
-Ba Kôkôtimã môp kaba    I dig cará for Kôkôti
-Ba kum môp kaba    I dig cará for him
-Ba kum môp kaba    I dig cará for her
-Ba ar imã môp kaba    I dig cará for us
-ga Kôkôtimã môp kaba    You dig cará for Kôkôti
-ga kum môp kaba    You dig cará for him
-ga kum môp kaba    You dig cará for her
-ga ar imã môp kaba    You dig cará for us
-me Kôkôtimã môp kaba    They dig cará for Kôkôti
-me kum môp kaba    They dig cará for him
-me kum môp kaba    They dig cará for her
-me ar imã môp kaba    They dig cará for us
-gu me Kôkôtimã môp kaba    we dig cará for Kôkôti
-ba me Kôkôtimã môp kaba    we dig cará for Kôkôti
-gar Kôkôtimã môp kaba    You dig cará for Kôkôti
-ba Kôkôtimã môp tu    I carried cará for Kôkôti
-ba Kôkôtimã môp ga    I cooked cará for Kôkôti
-ba Kôkôtimã môp kre    I planted cará for Kôkôti
-ba Kôkôtimã môp kaba    I dig cará for Kôkôti
-Birbir abê anhõ mryo akĩ    Birbir stole your meat from you
-Birbir abê anhõ bayo akĩ    Birbir stole your corn from you
-Birbir abê anhõ karinhôo akĩ    Birbir stole your tobacco from you
-Birbir abê anhõ kubẽkào akĩ    Birbir stole your clothing from you
-Birbir abê anhõ katõko akĩ    Birbir stole your rifle from you
-Birbir abê anhõ angào akĩ    Birbir stole your necklace from you
-Birbir ibê anhõ mryo akĩ    Birbir stole my meat from me
-Birbir kutê anhõ mryo akĩ    Birbir stole my meat from me
-Birbir Kôkôtibê anhõ mryo akĩ    Birbir stole his meat from him
-Birbir abê anhõ mryo akĩ    Birbir stole Kôkôti's meat from him
-Birbir abê anhõ mryo akĩ    Birbir stole your meat from you
-Birbir bẽnjadjwỳrbê anhõ mryo akĩ    the chief's meat from him.
-ba abê anhõ mryo akĩ    I stole your meat from you
-me'õ abê anhõ mryo akĩ    someone stole your meat from you
-me abê anhõ mryo akĩ    they stole your meat from you
-Birbir abê anhõ mryo abdju    Birbir hid your meat from you
-Birbir abê anhõ mryo tẽ    Birbir took your meat from you
-Birbir abê anhõ mryo ajkẽn    Birbir ruined your meat from you
-Birbir abê anhõ mry krẽ    Birbir ate your meat from you
-Birbir abê anhõ mry by    Birbir took your meat in his hand from you
-Birbir abê anhõ katõk kwỳr    Birbir broke your rifle from you
-Birbir abê anhõ kubẽkà kadjô    Birbir ripped your cloth/clothes from you
+Ba me kum môp kaba	I dug cará for them
+Ba mekmã môp kaba	 I dug cará for them
+Ba ar imã môp kaba	I dug cará for us
+Ba ar amã môp kaba	I dug cará for you
+Ba Kôkôtimã môp kaba		I dig cará for Kôkôti
+Ba kum môp kaba		I dig cará for him
+Ba kum môp kaba		I dig cará for her
+Ba ar imã môp kaba		I dig cará for us
+ga Kôkôtimã môp kaba		You dig cará for Kôkôti
+ga kum môp kaba		You dig cará for him
+ga kum môp kaba		You dig cará for her
+ga ar imã môp kaba		You dig cará for us
+me Kôkôtimã môp kaba		They dig cará for Kôkôti
+me kum môp kaba		They dig cará for him
+me kum môp kaba		They dig cará for her
+me ar imã môp kaba		They dig cará for us
+gu me Kôkôtimã môp kaba		we dig cará for Kôkôti
+ba me Kôkôtimã môp kaba		we dig cará for Kôkôti
+gar Kôkôtimã môp kaba		You dig cará for Kôkôti
+ba Kôkôtimã môp tu		I carried cará for Kôkôti
+ba Kôkôtimã môp ga		I cooked cará for Kôkôti
+ba Kôkôtimã môp kre		I planted cará for Kôkôti
+ba Kôkôtimã môp kaba		I dig cará for Kôkôti
+Birbir abê anhõ mryo akĩ		Birbir stole your meat from you
+Birbir abê anhõ bayo akĩ		Birbir stole your corn from you
+Birbir abê anhõ karinhôo akĩ		Birbir stole your tobacco from you
+Birbir abê anhõ kubẽkào akĩ		Birbir stole your clothing from you
+Birbir abê anhõ katõko akĩ		Birbir stole your rifle from you
+Birbir abê anhõ angào akĩ		Birbir stole your necklace from you
+Birbir ibê anhõ mryo akĩ		Birbir stole my meat from me
+Birbir kutê anhõ mryo akĩ		Birbir stole my meat from me
+Birbir Kôkôtibê anhõ mryo akĩ		Birbir stole his meat from him
+Birbir abê anhõ mryo akĩ		Birbir stole Kôkôti's meat from him
+Birbir abê anhõ mryo akĩ		Birbir stole your meat from you
+Birbir bẽnjadjwỳrbê anhõ mryo akĩ		the chief's meat from him.
+ba abê anhõ mryo akĩ		I stole your meat from you
+me'õ abê anhõ mryo akĩ		someone stole your meat from you
+me abê anhõ mryo akĩ		they stole your meat from you
+Birbir abê anhõ mryo abdju		Birbir hid your meat from you
+Birbir abê anhõ mryo tẽ		Birbir took your meat from you
+Birbir abê anhõ mryo ajkẽn		Birbir ruined your meat from you
+Birbir abê anhõ mry krẽ		Birbir ate your meat from you
+Birbir abê anhõ mry by		Birbir took your meat in his hand from you
+Birbir abê anhõ katõk kwỳr		Birbir broke your rifle from you
+Birbir abê anhõ kubẽkà kadjô		Birbir ripped your cloth/clothes from you
 Ba abê ngõr I fell asleep against you
 Ba abê ngõr I fell asleep from you
-Ba Birbirbê ngõr    I fell asleep against Birbir
-Ba kubê ngõr    I fell asleep against him
-Ba abãmbê ngõr  I fell asleep against your father
-Ba anãbê ngõr   I fell asleep against your mother
-Ba mebê ngõr    I fell asleep against them
+Ba Birbirbê ngõr		I fell asleep against Birbir
+Ba kubê ngõr		I fell asleep against him
+Ba abãmbê ngõr	I fell asleep against your father
+Ba anãbê ngõr	 I fell asleep against your mother
+Ba mebê ngõr		I fell asleep against them
 Birbir ibê ngõr Birbir fell asleep against me
-# ibê ngõr  he fell asleep against me
+# ibê ngõr	he fell asleep against me
 ga ibê ngõr You fell asleep against me
 me ibê ngõr they fell asleep against me
-Bàkam me'õ ne kangã bĩ  Someone killed the snake in the forest
-Kikrekam me'õ ne kangã bĩ  Someone killed the snake in the house
-Krĩbê me'õ ne kangã bĩ  Someone killed the snake in the village
-Ngàbê me'õ ne kangã bĩ  Someone killed the snake in the men's house
-Prykam me'õ ne kangã bĩ  Someone killed the snake in the trail
-Tãm ne # kanê o amykry  He was sick all day
-Tãm ne # àpênh o amykry  He worked all day
-Tãm ne # bixjaêr o amykry  He played all day
+Bàkam me'õ ne kangã bĩ	Someone killed the snake in the forest
+Kikrekam me'õ ne kangã bĩ	Someone killed the snake in the house
+Krĩbê me'õ ne kangã bĩ	Someone killed the snake in the village
+Ngàbê me'õ ne kangã bĩ	Someone killed the snake in the men's house
+Prykam me'õ ne kangã bĩ	Someone killed the snake in the trail
+Tãm ne # kanê o amykry	He was sick all day
+Tãm ne # àpênh o amykry	He worked all day
+Tãm ne # bixjaêr o amykry	He played all day
 Tãm ne # õt o akati He slept all night
-Tãm ne # tor o akati    He danced all night
-Tãm ne # kanê o akati  He was sick all night
+Tãm ne # tor o akati		He danced all night
+Tãm ne # kanê o akati	He was sick all night
 Birbir mũm prõt Birbir ran far
 Birbir wãj prõt Birbir ran far
-Inã ijã keket   Mother laughed at me
-Inã ajã keket   Mother laughed at you
-Inã 'ã keket   Mother laughed at him
-Inã me'ã keket   Mother laughed at them
-Inã bajã keket   Mother laughed at us
-Ne Birbir nõ mrõ    Birbir cooked the food
-Ne # nõ mrõ    she cooked the food
-Ne # nõ mrõ    he cooked the food
-Ne anã nõ mrõ    your mother cooked the food
-Ne ba nõ mrõ    I cooked the food
-Ne gar nõ mrõ    you cooked the food
-Ne ne nõ mrõ    they cooked the food
+Inã ijã keket	 Mother laughed at me
+Inã ajã keket	 Mother laughed at you
+Inã 'ã keket	 Mother laughed at him
+Inã me'ã keket	 Mother laughed at them
+Inã bajã keket	 Mother laughed at us
+Ne Birbir nõ mrõ		Birbir cooked the food
+Ne # nõ mrõ		she cooked the food
+Ne # nõ mrõ		he cooked the food
+Ne anã nõ mrõ		your mother cooked the food
+Ne ba nõ mrõ		I cooked the food
+Ne gar nõ mrõ		you cooked the food
+Ne ne nõ mrõ		they cooked the food
 Birbir nã ro'ã ne àpênh Birbir works together with her mother
-Birbir kanikwỳj ne àpênh    Birbir works together with her sister
+Birbir kanikwỳj ne àpênh		Birbir works together with her sister
 Birbir kra ne àpênh Birbir works together with her child
-Birbir me ne àpênh  Birbir works together with them
-Ba akôt tẽ  I go with you
-Ba Kôkôtikot tẽ  I go with Kôkôti
-Ba bẽnjadjwỳrkôt tẽ  I go the chief
-Ba inãkôt tẽ  I go with my mother
-Ba mekôt tẽ  I go with them
-Kôkôti ar ro'ã ngôjmã tẽ    Kôkôti went to the water with him
-Kôkôti ar ro'ã bàkam tẽ    Kôkôti went to the forest with him
-Kôkôti ar ro'ã kikremã tẽ    Kôkôti went to the house with him
-Kôkôti ar ro'ã purmã tẽ    Kôkôti went to the field with him
-Kôkôti ar ro'ã màtkà'ỳr tẽ    Kôkôti went to the airplane with him
-Ikrãkam tokry   My head hurts
-Itikkam tokry   My stomach hurts
-Ikôkam tokry   My back hurts
-Ipar miôpmiôp   My foot itches
-Ipa miôpmiôp   My arm itches
-Arỳm ne kôk pi'ôko ajngrà   The wind scattered the papers
-Arỳm ne kôk kadjàto ajngrà   The wind scattered the cotton
-Arỳm ne kôk kubẽkào ajngrà   The wind scattered the clothes
-Arỳm ne kôk pi'ôo ajngrà   The wind scattered the leaves
-Djudjê ne pãnh 20   The bow is worth cr 20,00
-Kruw ne pãnh 20   The arrow is worth cr 20,00
-Kop ne pãnh 20   The war club is worth cr 20,00
-Kàx ne pãnh 20   The machete is worth cr 20,00
-Kubẽkà ne pãnh 20   The clothing is worth cr 20,00
-pãnh    trade
-Nãm # Kôkôtimã êx   He lied to Kôkôti
-Nãm # imã êx   He lied to me
-Nãm # nãmã êx   He lied to his mother
-Nãm # bãmmã êx   He lied to his father
-Nãm # bẽnjadjwỳrmã êx   He lied to the chief
+Birbir me ne àpênh	Birbir works together with them
+Ba akôt tẽ	I go with you
+Ba Kôkôtikot tẽ	I go with Kôkôti
+Ba bẽnjadjwỳrkôt tẽ	I go the chief
+Ba inãkôt tẽ	I go with my mother
+Ba mekôt tẽ	I go with them
+Kôkôti ar ro'ã ngôjmã tẽ		Kôkôti went to the water with him
+Kôkôti ar ro'ã bàkam tẽ		Kôkôti went to the forest with him
+Kôkôti ar ro'ã kikremã tẽ		Kôkôti went to the house with him
+Kôkôti ar ro'ã purmã tẽ		Kôkôti went to the field with him
+Kôkôti ar ro'ã màtkà'ỳr tẽ		Kôkôti went to the airplane with him
+Ikrãkam tokry	 My head hurts
+Itikkam tokry	 My stomach hurts
+Ikôkam tokry	 My back hurts
+Ipar miôpmiôp	 My foot itches
+Ipa miôpmiôp	 My arm itches
+Arỳm ne kôk pi'ôko ajngrà	 The wind scattered the papers
+Arỳm ne kôk kadjàto ajngrà	 The wind scattered the cotton
+Arỳm ne kôk kubẽkào ajngrà	 The wind scattered the clothes
+Arỳm ne kôk pi'ôo ajngrà	 The wind scattered the leaves
+Djudjê ne pãnh 20	 The bow is worth cr 20,00
+Kruw ne pãnh 20	 The arrow is worth cr 20,00
+Kop ne pãnh 20	 The war club is worth cr 20,00
+Kàx ne pãnh 20	 The machete is worth cr 20,00
+Kubẽkà ne pãnh 20	 The clothing is worth cr 20,00
+pãnh		trade
+Nãm # Kôkôtimã êx	 He lied to Kôkôti
+Nãm # imã êx	 He lied to me
+Nãm # nãmã êx	 He lied to his mother
+Nãm # bãmmã êx	 He lied to his father
+Nãm # bẽnjadjwỳrmã êx	 He lied to the chief
 nãm indeed
-Arỳm nẽ ba # mry 'ã ku'uw   I asked him for meat
-Arỳm nẽ ba # bày 'ã ku'uw   I asked him for corn
-Arỳm nẽ ba # ngô 'ã ku'uw   I asked him for water
-Arỳm nẽ ba # tyrti 'ã ku'uw   I asked him for bananas
-Arỳm nẽ ba # tep 'ã ku'uw   I asked him for fish
-arỳm    already
-Kôkôti kute pi'ôk no'ôk pumũnh  Kôkôti knows how to read
-Kôkôti kute pi'ôk no'ôk pumũnh  Kôkôti knows how to write
-Kôkôti kute kupip ka'ur pumũnh  Kôkôti knows how to write
-Kôkôti kute djudjê nhipêx pumũnh  Kôkôti knows how to make a bow
-Kôkôti kute pry pumũnh  Kôkôti knows how to the path
-pumũnh  to see
-pumũnh  to know
-Imã jàt prãm    I want yams
-Imã motkiteru prãm    I want a mosquito ne
-Imã mry prãm    I want meat
-Imã tyrti prãm    I want bananas
-Imã jàt prãm    I want yams
-Imã bày prãm    I want corn
-Imã bày gogo prãm    I want rice
-Kôkôti ne me ngrer ma   Kôkôti heard the singing
-Kôkôti ne # kabẽn ma   Kôkôti heard the talk
-Kôkôti ne me karõ ma   Kôkôti heard the spirits
-Kôkôti ne # kubyt ma   Kôkôti heard the howler monkey
-Kôkôti ne me àkjêr ma   Kôkôti heard the yelling
-Kẽn ne ja   This is a stone
-Pur ne ja   This is a field
-Pry ne ja   This is a path
-Tônti ne ja   This is an armadillo
-Pidjỳ ne ja   This is medicine
-Tep ne ja   This is a fish
-Ba ne ba êdjào kamrêk   I made the string red
-Ba ne ba # ipu   I filled it
-Ba ne ba # kaprỳ   I emptied it
-Ijajne  I'm full
-Ikangro  I'm hot
-Ikaprĩ  I'm sad
-Ingryk  I'm angry
-Imex    I'm well
-Irerek  I'm weak
-Itỳx    I'm strong
-Ikatyk  I'm tired
-Ikatyk mex  I'm exhausted
-Idjom   I'm exhausted
-Imã prãm    I'm hungry
-Imã kry    I'm cold
-Imã kôr    I'm thirsty
-Imã kĩnh    I'm happy
-Imã djukanga    I'm lazy
-Ibê Birbir  I am  Birbir
+Arỳm nẽ ba # mry 'ã ku'uw	 I asked him for meat
+Arỳm nẽ ba # bày 'ã ku'uw	 I asked him for corn
+Arỳm nẽ ba # ngô 'ã ku'uw	 I asked him for water
+Arỳm nẽ ba # tyrti 'ã ku'uw	 I asked him for bananas
+Arỳm nẽ ba # tep 'ã ku'uw	 I asked him for fish
+arỳm		already
+Kôkôti kute pi'ôk no'ôk pumũnh	Kôkôti knows how to read
+Kôkôti kute pi'ôk no'ôk pumũnh	Kôkôti knows how to write
+Kôkôti kute kupip ka'ur pumũnh	Kôkôti knows how to write
+Kôkôti kute djudjê nhipêx pumũnh	Kôkôti knows how to make a bow
+Kôkôti kute pry pumũnh	Kôkôti knows how to the path
+pumũnh	to see
+pumũnh	to know
+Imã jàt prãm		I want yams
+Imã motkiteru prãm		I want a mosquito ne
+Imã mry prãm		I want meat
+Imã tyrti prãm		I want bananas
+Imã jàt prãm		I want yams
+Imã bày prãm		I want corn
+Imã bày gogo prãm		I want rice
+Kôkôti ne me ngrer ma	 Kôkôti heard the singing
+Kôkôti ne # kabẽn ma	 Kôkôti heard the talk
+Kôkôti ne me karõ ma	 Kôkôti heard the spirits
+Kôkôti ne # kubyt ma	 Kôkôti heard the howler monkey
+Kôkôti ne me àkjêr ma	 Kôkôti heard the yelling
+Kẽn ne ja	 This is a stone
+Pur ne ja	 This is a field
+Pry ne ja	 This is a path
+Tônti ne ja	 This is an armadillo
+Pidjỳ ne ja	 This is medicine
+Tep ne ja	 This is a fish
+Ba ne ba êdjào kamrêk	 I made the string red
+Ba ne ba # ipu	 I filled it
+Ba ne ba # kaprỳ	 I emptied it
+Ijajne	I'm full
+Ikangro	I'm hot
+Ikaprĩ	I'm sad
+Ingryk	I'm angry
+Imex		I'm well
+Irerek	I'm weak
+Itỳx		I'm strong
+Ikatyk	I'm tired
+Ikatyk mex	I'm exhausted
+Idjom	 I'm exhausted
+Imã prãm		I'm hungry
+Imã kry		I'm cold
+Imã kôr		I'm thirsty
+Imã kĩnh		I'm happy
+Imã djukanga		I'm lazy
+Ibê Birbir	I am	Birbir
 Kubê Kôkôti He is Kôkôti
 Kubê bẽnjadjwỳr He is the chief
 Kubê mengrer djwỳnh He is the festival leader
-Kubê kukôj  He is the monkey
-Purkam jàt  There are yams in the field
-Bàkam ngiadjy  There are deer in the forest
-Ngôkam tep  There are fish in the water
+Kubê kukôj	He is the monkey
+Purkam jàt	There are yams in the field
+Bàkam ngiadjy	There are deer in the forest
+Ngôkam tep	There are fish in the water
 Pĩkam pidjô There is fruit in the tree
-Arỳm ne djwỳ kangro mõ  The food is getting hot
+Arỳm ne djwỳ kangro mõ	The food is getting hot
 Arỳm ne bày ngrà mõ The corn corn is drying
 Arỳm ne # kamrêk mõ It is getting (almost) red
 Arỳm ne djwỳ kangro The food is hot
-Arỳm ne bày ngrà    The corn is dry
-Arỳm ne # kamrêk    It is red
-Arỳm ne # ipu   It is full
+Arỳm ne bày ngrà		The corn is dry
+Arỳm ne # kamrêk		It is red
+Arỳm ne # ipu	 It is full
 Arỳm ne # kaprỳ It is empty
 Arỳm ne na rwyk tỳx It is raining hard
-Arỳm ne kôk jabêr tỳx   It is very windy
-Arỳm ne kàjkwa rax  It is clear
-Arỳm ne kàjkwa punu-re  It is cloudy
-Arỳm ne aringro tỳx  It is sunny
-Arỳm ne akati #  It is day
-Arỳm ne akamàt #  It is night
-Johnny djãm ga?   Johnny, is that you?
-Nà, ba  Yes, it's me (for a man)
-Mỳjrỳ ga tẽ?    Where are you going?
+Arỳm ne kôk jabêr tỳx	 It is very windy
+Arỳm ne kàjkwa rax	It is clear
+Arỳm ne kàjkwa punu-re	It is cloudy
+Arỳm ne aringro tỳx	It is sunny
+Arỳm ne akati #	It is day
+Arỳm ne akamàt #	It is night
+Johnny djãm ga?	 Johnny, is that you?
+Nà, ba	Yes, it's me (for a man)
+Mỳjrỳ ga tẽ?		Where are you going?
 Ngô'ỳrỳne ba tẽ I'm going to the river
-Aj. 'Ỳr tẽ  Then go (for a man)
-Ã, ba   Yes, it's me (for a woman)
+Aj. 'Ỳr tẽ	Then go (for a man)
+Ã, ba	 Yes, it's me (for a woman)
 Anũ. 'Ỳr tẽ Then go (for a woman)
-nà  yes (man talking)
-ã   yes (woman talking)
-ãã  yes (woman talking)
-aj  yes! (informal, man talking)
-anũ  yes! (informal, woman talking)
-mỳjrỳ   where?
+nà	yes (man talking)
+ã	 yes (woman talking)
+ãã	yes (woman talking)
+aj	yes! (informal, man talking)
+anũ	yes! (informal, woman talking)
+mỳjrỳ	 where?
 ngô water
 ngô river
-tẽ  to go
-Ngô 'ỳrỳne ba tẽ    I'm going to the river
-Bà 'ỳrỳne ba tẽ    I'm going to the forest
-Krĩrax 'ỳrỳne ba tẽ    I'm going to the town
-Krĩrax 'ỳrỳne ba tẽ    I'm going to the city
-Ngà 'ỳrỳne ba tẽ    I'm going to the men's house
-Kikre 'ỳrỳne ba tẽ    I'm going to the house
-Jãm ne ga tẽ?   Where are you going?
-Purmã ne ba tẽ  I'm going to the country
-Aj mã   Then go (man talking)
-Anũ mã   Then go (woman talking)
-Jãm?    where?
+tẽ	to go
+Ngô 'ỳrỳne ba tẽ		I'm going to the river
+Bà 'ỳrỳne ba tẽ		I'm going to the forest
+Krĩrax 'ỳrỳne ba tẽ		I'm going to the town
+Krĩrax 'ỳrỳne ba tẽ		I'm going to the city
+Ngà 'ỳrỳne ba tẽ		I'm going to the men's house
+Kikre 'ỳrỳne ba tẽ		I'm going to the house
+Jãm ne ga tẽ?	 Where are you going?
+Purmã ne ba tẽ	I'm going to the country
+Aj mã	 Then go (man talking)
+Anũ mã	 Then go (woman talking)
+Jãm?		where?
 Pur mã ne ba tẽ I'm going to the country
 Krĩ mã ne ba tẽ I'm going to the village
-Berẽ mã ne ba tẽ    I'm going to Belem
+Berẽ mã ne ba tẽ		I'm going to Belem
 Ngà mã ne ba tẽ I'm going to the men's house
 Krĩrax mã ne ba tẽ I'm going to the town
-Krĩrax mã ne ba tẽ  I'm going to the city
-Inhũrkwã mã ne ba tẽ    I'm going to my house
-Djãm ngô'ỳr ne ga tẽ?   Are you going to the river?
+Krĩrax mã ne ba tẽ	I'm going to the city
+Inhũrkwã mã ne ba tẽ		I'm going to my house
+Djãm ngô'ỳr ne ga tẽ?	 Are you going to the river?
 Kati. Inhũrkwã'ỳr ne ba tẽ. No, I'm going to my house
-Ba akôt tẽ  I'm going with you, ok?
-Gu 'ỳr  Sure, let's go!
-Arỳm ne ba itẽmmã   I'm going now.
-Anũ mã  Then go
-akôt    with you
-arỳm    now
-arỳm    in this moment
-ikôt    with me
-itẽmmã  I'm going
-kati    no
-ar akôt tẽ  They are going with you
-Kôkôti akôt tẽ  Kôkôti is going with you
-Me akôt tẽ  They are going with you
-Ba me kôt tẽ   I'm going with everyone
-Ba ar kôt tẽ   I'm going with them
-Ba kôt tẽ   I'm going with him
-Ba ar akôt tẽ   I'm going with you
-Ba inã kôt tẽ   I'm going with my mother
-Me bêngôkre kabẽn ne mexkumrẽx  Kayapo is a beautiful language
-Ije akabẽn mar prãmã    I want to learn to speak your language
-Gop imã me akabẽn katàt jarẽ, nẽn?  Whenever I make a mistake, correct me, alright?
+Ba akôt tẽ	I'm going with you, ok?
+Gu 'ỳr	Sure, let's go!
+Arỳm ne ba itẽmmã	 I'm going now.
+Anũ mã	Then go
+akôt		with you
+arỳm		now
+arỳm		in this moment
+ikôt		with me
+itẽmmã	I'm going
+kati		no
+ar akôt tẽ	They are going with you
+Kôkôti akôt tẽ	Kôkôti is going with you
+Me akôt tẽ	They are going with you
+Ba me kôt tẽ	 I'm going with everyone
+Ba ar kôt tẽ	 I'm going with them
+Ba kôt tẽ	 I'm going with him
+Ba ar akôt tẽ	 I'm going with you
+Ba inã kôt tẽ	 I'm going with my mother
+Me bêngôkre kabẽn ne mexkumrẽx	Kayapo is a beautiful language
+Ije akabẽn mar prãmã		I want to learn to speak your language
+Gop imã me akabẽn katàt jarẽ, nẽn?	Whenever I make a mistake, correct me, alright?
 Ije mar ngrire rã'ã So far, I only understand a little bit!
 gop expression
 ije I
-jarẽ    to say
-kabẽn   to talk
-katàt   the correct way to talk
+jarẽ		to say
+kabẽn	 to talk
+katàt	 the correct way to talk
 mar to understand
-mexkumrẽx   very good!
+mexkumrẽx	 very good!
 nẽn it's correct!
-ngrire  a little
-ngrire  a few
-rã'ã    still
-Ajte akatibê, nẽn?  let's study again tomorrow, ok?
-Ajte arẽ    repeat
-Ajte ja jarẽ    repeat that
-Ajte kunĩ jarẽ  repeat the whole phrase
-Arỳmne ba kuma  now I understand
-Gu badjàpênh o nhỹ  let's start to work
-Ije mar kêt rã'ã  I still don't understand
+ngrire	a little
+ngrire	a few
+rã'ã		still
+Ajte akatibê, nẽn?	let's study again tomorrow, ok?
+Ajte arẽ		repeat
+Ajte ja jarẽ		repeat that
+Ajte kunĩ jarẽ	repeat the whole phrase
+Arỳmne ba kuma	now I understand
+Gu badjàpênh o nhỹ	let's start to work
+Ije mar kêt rã'ã	I still don't understand
 Imã ja jarẽ tell this to me
-Imã ja kunĩ jarẽ    tell me the whole thing
-Johnny, arỳm ne ba awỳr bôx.    Johnny, I arrived
-Djãm ga?    Is it you?
-Ãã, bakêt   It's really me!
-Djãm amã tyrti kĩnh?    do you like bananas?
+Imã ja kunĩ jarẽ		tell me the whole thing
+Johnny, arỳm ne ba awỳr bôx.		Johnny, I arrived
+Djãm ga?		Is it you?
+Ãã, bakêt	 It's really me!
+Djãm amã tyrti kĩnh?		do you like bananas?
 Ãã, imã tyrti kĩnh. Yes, I do.
-Mĩ, 'õ by   Get some
-Tyrtija ne ànhkumrẽx.  Imã ành. These bananas are delicious! I love them!
-Arỳmne ba itẽmmã.   I'm already leaving
+Mĩ, 'õ by	 Get some
+Tyrtija ne ànhkumrẽx.	Imã ành. These bananas are delicious! I love them!
+Arỳmne ba itẽmmã.	 I'm already leaving
 bôx to arrive
 bôx to come
-ja  this
+ja	this
 kêt really
 kêt trully
-kumrẽx  really
-mĩ  take it
-tyrti   banana
-Djãm amã tyrti kĩnh?    Do you like banana?
-Djãm amã môp kĩnh?    Do you like cara?
-Djãm amã jàt kĩnh?    Do you like sweet potato?
-Djãm amã mry kĩnh?    Do you like meat?
-Djãm amã djwỳ kĩnh?    Do you like beiju?
-Djãm amã bày kĩnh?    Do you like corn?
-Ãã, imã tyrti kĩnh  Yes, I like banana
-Ãã, imã môp kĩnh  Yes, I like cara
-Ãã, imã jàt kĩnh  Yes, I like sweet potato.
-Ãã, imã mry kĩnh  Yes, I like meat.
-Ãã, imã djwỳ kĩnh  Yes, I like beiju.
-Ãã, imã bày kĩnh  Yes, I like corn.
-Djãm amã prãm?  Are you hungry?
-Ãã, imã prãm    Yes, I am
-Djãm amã tyrti kĩnh?    Do you like banana?
-Djãm amã tyrti kĩnh?    Do you accept banana?
-Ãã, imã tyrti kĩnh    Yes, I like
-Ãã, imã tyrti kĩnh    Yes, I accept
-Mĩ, 'õ by   Get some
-Imã tyrti prãm  I want bananas
-Imã bày prãm  I want corn
-Imã jàt prãm  I want sweet potato
-Imã tyrti kĩnh  I like banana
-Imã bày kĩnh  I like corn
-Imã jàt kĩnh  I like sweet potato
-Imã tyrti djành  I really like banana
-Imã bày djành  I really like corn
-Imã jàt djành  I really like sweet potato
+kumrẽx	really
+mĩ	take it
+tyrti	 banana
+Djãm amã tyrti kĩnh?		Do you like banana?
+Djãm amã môp kĩnh?		Do you like cara?
+Djãm amã jàt kĩnh?		Do you like sweet potato?
+Djãm amã mry kĩnh?		Do you like meat?
+Djãm amã djwỳ kĩnh?		Do you like beiju?
+Djãm amã bày kĩnh?		Do you like corn?
+Ãã, imã tyrti kĩnh	Yes, I like banana
+Ãã, imã môp kĩnh	Yes, I like cara
+Ãã, imã jàt kĩnh	Yes, I like sweet potato.
+Ãã, imã mry kĩnh	Yes, I like meat.
+Ãã, imã djwỳ kĩnh	Yes, I like beiju.
+Ãã, imã bày kĩnh	Yes, I like corn.
+Djãm amã prãm?	Are you hungry?
+Ãã, imã prãm		Yes, I am
+Djãm amã tyrti kĩnh?		Do you like banana?
+Djãm amã tyrti kĩnh?		Do you accept banana?
+Ãã, imã tyrti kĩnh		Yes, I like
+Ãã, imã tyrti kĩnh		Yes, I accept
+Mĩ, 'õ by	 Get some
+Imã tyrti prãm	I want bananas
+Imã bày prãm	I want corn
+Imã jàt prãm	I want sweet potato
+Imã tyrti kĩnh	I like banana
+Imã bày kĩnh	I like corn
+Imã jàt kĩnh	I like sweet potato
+Imã tyrti djành	I really like banana
+Imã bày djành	I really like corn
+Imã jàt djành	I really like sweet potato
 kry to feel cold
 kôr to be thirsty
-Djãm amexkumrẽx?    Are you felling alright?
-Kati. Ikanê.    No, I'm sick.
+Djãm amexkumrẽx?		Are you felling alright?
+Kati. Ikanê.		No, I'm sick.
 Mỳj ne ajã? What are you felling?
-Ikrãkam tokry   I have a terrible headache
+Ikrãkam tokry	 I have a terrible headache
 Djãm arỳm ne ga anhõ pidjỳ krẽ? Did you take some medicine?
-Nà, ajbir ne ba inhõ pidjỳ krẽ. Birãm tebê imex jabey   Yes, I already took it. Maybe, I'll get better.
-ajbir   right now
-ajte    another time
-ajte    again
-birãm   maybe
-imexkumrẽx  I'm well
-imexkumrẽx  I'm fine
-imexkumrẽx  I'm healthy
-inhõ    my
-tebê    quickly
-tokry   to feel pain
-Imex    I'm ok
-Imex    I'm fine
-Ingryk  I'm angry
-Ikaprĩre    I'm sad
-Irerekre    I'm weak
-Ikatyk  I'm tired
-Ikanê   I'm sick
-Itỳx    I'm strong
-Itỳx    I'm healty
-Ipunu   I'm bad
-Ipunu   I'm not well
-Amex    You're ok
-Amex    You're fine
-Angryk  You're angry
-Akaprĩre    You're sad
-Arerekre    You're weak
-Akatyk  You're tired
-Akanê   You're sick
-Atỳx    You're strong
-Apunu   You're bad
-Apunu   You're not well
-Djãm amexkumrẽx?    Are you ok?
-Djãm angryk?    Are you angry?
-Djãm akaprĩre?    Are you sad?
-Djãm arerekre?    Are you sad?
-Djãm akatyk?    Are you weak?
-Djãm akanê?    Are you sick?
-Djãm amexkumrẽx?    Are you ok?
+Nà, ajbir ne ba inhõ pidjỳ krẽ. Birãm tebê imex jabey	 Yes, I already took it. Maybe, I'll get better.
+ajbir	 right now
+ajte		another time
+ajte		again
+birãm	 maybe
+imexkumrẽx	I'm well
+imexkumrẽx	I'm fine
+imexkumrẽx	I'm healthy
+inhõ		my
+tebê		quickly
+tokry	 to feel pain
+Imex		I'm ok
+Imex		I'm fine
+Ingryk	I'm angry
+Ikaprĩre		I'm sad
+Irerekre		I'm weak
+Ikatyk	I'm tired
+Ikanê	 I'm sick
+Itỳx		I'm strong
+Itỳx		I'm healty
+Ipunu	 I'm bad
+Ipunu	 I'm not well
+Amex		You're ok
+Amex		You're fine
+Angryk	You're angry
+Akaprĩre		You're sad
+Arerekre		You're weak
+Akatyk	You're tired
+Akanê	 You're sick
+Atỳx		You're strong
+Apunu	 You're bad
+Apunu	 You're not well
+Djãm amexkumrẽx?		Are you ok?
+Djãm angryk?		Are you angry?
+Djãm akaprĩre?		Are you sad?
+Djãm arerekre?		Are you sad?
+Djãm akatyk?		Are you weak?
+Djãm akanê?		Are you sick?
+Djãm amexkumrẽx?		Are you ok?
 Kati. Ikĩnh No, I'm happy
-Mỳj ne ga o nhỹ?    What are you doing?
+Mỳj ne ga o nhỹ?		What are you doing?
 Pi'y ne ba ka'uk o nhỹ. I'm pounding nuts
 Pi'y ne ba ka'uk o nhỹ. I'm crushing nuts
 Mỳj ne akra krẽn o nhỹ? What are your son eating?
-Jàt ne ikra krẽn o nhỹ  He is eating sweet potato
-Djãm amã jàt kĩnh?  Do you want sweet potato?
+Jàt ne ikra krẽn o nhỹ	He is eating sweet potato
+Djãm amã jàt kĩnh?	Do you want sweet potato?
 Kati. Ajbir ne ba inhõ kwỳ krẽ. No, I just eat
-Arỳm ne ba ijajne   I'm satisfied
-Kwỳr ne ba ka'uk o nhỹ  I'm pounding cassava
-Kwỳr ne ba ka'uk o nhỹ  I'm crushing cassava
-Bày ne ne ba ka'uk o nhỹ  I'm pounding corn
-Bày ba ka'uk o nhỹ  I'm crushing corn
-Tyrti djô ba ka'uk o nhỹ  I'm pounding bananas
-Tyrti djô ba ka'uk o nhỹ  I'm crushing bananas
-Pi'y ne ba krẽn o nhỹ   I'm eating nuts
-Bày ne ba krẽn o nhỹ   I'm eating corn
-Tyrti ne ba krẽn o nhỹ   I'm eating bananas
-Djwỳ ne ba krẽn o nhỹ   I'm eating beiju
-Mry ne ba krẽn o nhỹ   I'm eating meat
-Tep ne ba krẽn o nhỹ   I'm eating fish
-Ba idjàpênh o nhỹ   I'm working
-Ba ingrer o nhỹ   I'm singing
-Ba imỳr o nhỹ   I'm crying
-Ba ikeket o nhỹ   I'm laughing
+Arỳm ne ba ijajne	 I'm satisfied
+Kwỳr ne ba ka'uk o nhỹ	I'm pounding cassava
+Kwỳr ne ba ka'uk o nhỹ	I'm crushing cassava
+Bày ne ne ba ka'uk o nhỹ	I'm pounding corn
+Bày ba ka'uk o nhỹ	I'm crushing corn
+Tyrti djô ba ka'uk o nhỹ	I'm pounding bananas
+Tyrti djô ba ka'uk o nhỹ	I'm crushing bananas
+Pi'y ne ba krẽn o nhỹ	 I'm eating nuts
+Bày ne ba krẽn o nhỹ	 I'm eating corn
+Tyrti ne ba krẽn o nhỹ	 I'm eating bananas
+Djwỳ ne ba krẽn o nhỹ	 I'm eating beiju
+Mry ne ba krẽn o nhỹ	 I'm eating meat
+Tep ne ba krẽn o nhỹ	 I'm eating fish
+Ba idjàpênh o nhỹ	 I'm working
+Ba ingrer o nhỹ	 I'm singing
+Ba imỳr o nhỹ	 I'm crying
+Ba ikeket o nhỹ	 I'm laughing
 Djã nã gãm anhõ kwỳ krẽn o nhỹ? Are you eating?
-Djã nã gãm karibêr o nhỹ?   Are you fanning the fire?
+Djã nã gãm karibêr o nhỹ?	 Are you fanning the fire?
 Djã nã gãm omũnh o nhỹ? Are you seeing?
 Kati. Nã bãm idjápênh o nhỹ No, I'm working
 Kati. Nã bãm pi'ôk no'ôk o nhỹ No, I'm writing
 Kati. Nã bãm inhõ kwỳ krẽn o nhỹ No, I'm eating
-Ba ikra pumũnh o nhỹ    I'm taking care of my son
-Johnny, mỳjneja?    Johnny, what's that?
-Tyrtineja   It's a banana
-Mỳj tyrtineja?  what kind of banana is this?
-Tekàkamrêktineja    It's tekákamrêkti
+Ba ikra pumũnh o nhỹ		I'm taking care of my son
+Johnny, mỳjneja?		Johnny, what's that?
+Tyrtineja	 It's a banana
+Mỳj tyrtineja?	what kind of banana is this?
+Tekàkamrêktineja		It's tekákamrêkti
 Jàtneja It's sweet potato
-Mỳj jàtneja?    What kind of sweet potato is this?
-Jàt 'oktineja   It's 'ôkti
-Djãm mryneja?   Is this meat?
+Mỳj jàtneja?		What kind of sweet potato is this?
+Jàt 'oktineja	 It's 'ôkti
+Djãm mryneja?	 Is this meat?
 Nà, mryneja Yes, it's meat
-Djãm ngijãdjyneja?  Is it venison?
-Kati. Angrôneja.    No, it's peccary meat.
-angrô   peccary
-ngijãdjy    deer
-'ôkti   kind of sweet potato
-tekàkamrêkti    kind of banana
-Bày neja    It's corn
-Pi'y neja    It's Brazil nut
-Pur neja    It's a farm
-Kikre neja    It's a house
-Ngà neja    It's a men's house
-Imô neja    It's a lake
-Kawa newa   It's a mortar and pestle
-Kubẽkà newa   It's a cloth
-Kuwy newa   It's a fire
-Ki newa   It's a clay oven
-Djudjê newa   It's a bow
-Kruw newa   It's an arrow
-Katõk newa   It's a shotgun
-Pi'ôk newa   It's a paper
-Pi'ôk newa   It's a book
-Ngônh newa   It's a metal container
-Maria, nhãr abãm?   Maria, where's your father?
-Ngàbê ne nhỹ.   He is on the men's house
-Anãdjwỳ. Nhãr anã?  And where's your mother?
-Inã ne me kôt purmã mõ  My mother went to the farm with the others.
-Arỳm me bôx 'ỳr.    They'll come back soon.
+Djãm ngijãdjyneja?	Is it venison?
+Kati. Angrôneja.		No, it's peccary meat.
+angrô	 peccary
+ngijãdjy		deer
+'ôkti	 kind of sweet potato
+tekàkamrêkti		kind of banana
+Bày neja		It's corn
+Pi'y neja		It's Brazil nut
+Pur neja		It's a farm
+Kikre neja		It's a house
+Ngà neja		It's a men's house
+Imô neja		It's a lake
+Kawa newa	 It's a mortar and pestle
+Kubẽkà newa	 It's a cloth
+Kuwy newa	 It's a fire
+Ki newa	 It's a clay oven
+Djudjê newa	 It's a bow
+Kruw newa	 It's an arrow
+Katõk newa	 It's a shotgun
+Pi'ôk newa	 It's a paper
+Pi'ôk newa	 It's a book
+Ngônh newa	 It's a metal container
+Maria, nhãr abãm?	 Maria, where's your father?
+Ngàbê ne nhỹ.	 He is on the men's house
+Anãdjwỳ. Nhãr anã?	And where's your mother?
+Inã ne me kôt purmã mõ	My mother went to the farm with the others.
+Arỳm me bôx 'ỳr.		They'll come back soon.
 Nhãr akamy? Where's your brother
-Ikamy me prĩrekôt bixaêro ba    My brother is playing with the others kids
-Nhãr akanikwỳnh?    Where's your sister?
-Ikanikwỳnh ne kupipkam nhỹ  My sister is sitting on the mat.
+Ikamy me prĩrekôt bixaêro ba		My brother is playing with the others kids
+Nhãr akanikwỳnh?		Where's your sister?
+Ikanikwỳnh ne kupipkam nhỹ	My sister is sitting on the mat.
 bãm father
-nã  mother
-djwỳ    also
-kanikwỳnh   sister
-kamy    brother
-kupip   sleeping mat
-me prĩre    kids
-Nhãr akra?  Where's your son?
-Nhãr akra?  Where's your daughter?
+nã	mother
+djwỳ		also
+kanikwỳnh	 sister
+kamy		brother
+kupip	 sleeping mat
+me prĩre		kids
+Nhãr akra?	Where's your son?
+Nhãr akra?	Where's your daughter?
 Kikrekam ne dja He's at home
 Kupipkam ne nhỹ He's sitting on the mat
-Ngô'ỳr ne tẽ    He went to the river
+Ngô'ỳr ne tẽ		He went to the river
 Purmã ne tẽ He went to the farm
-Pykabê ne nhỹ   He's sitting on the ground
-Krĩbê ne nhỹ    He's at home or in the village.
-Nhãr djwỳ?  Where's beiju?
-Nãr djwỳ?  Where's beiju?
-Nhãr jàt?  Where's sweet potatoes?
-Nhãr tyrti?  Where's bananas?
-Nhãr pi'y?  Where's the nuts?
-Nãr jàt?  Where's sweet potatoes?
-Nãr tyrti?  Where's bananas?
-Nãr pi'y?  Where's the nuts?
-Ngônhkam ne djwỳ   It's on pot
-Pĩponh'ã ne nõ   They're on the table
-Kikrekam ne nõ   They're inside the house
-Wãnhne nõ   They are there
+Pykabê ne nhỹ	 He's sitting on the ground
+Krĩbê ne nhỹ		He's at home or in the village.
+Nhãr djwỳ?	Where's beiju?
+Nãr djwỳ?	Where's beiju?
+Nhãr jàt?	Where's sweet potatoes?
+Nhãr tyrti?	Where's bananas?
+Nhãr pi'y?	Where's the nuts?
+Nãr jàt?	Where's sweet potatoes?
+Nãr tyrti?	Where's bananas?
+Nãr pi'y?	Where's the nuts?
+Ngônhkam ne djwỳ	 It's on pot
+Pĩponh'ã ne nõ	 They're on the table
+Kikrekam ne nõ	 They're inside the house
+Wãnhne nõ	 They are there
 nhiruwa mother (talking to)
-nã  mother (talking about)
+nã	mother (talking about)
 djũnwa father (talking to)
-bãm  father (talking about)
+bãm	father (talking about)
 àpnhire sister (talking to)
-kanikwỳnh  sister (talking about)
+kanikwỳnh	sister (talking about)
 akmẽre brother (talking to)
-kamy  brother (talking about)
+kamy	brother (talking about)
 tujwa grandma (talking to)
-kwatỳnh  grandma (talking about)
+kwatỳnh	grandma (talking about)
 tujwa aunt (talking to)
-kwatỳnh  aunt (talking about)
+kwatỳnh	aunt (talking about)
 ngetwa grandpa (talking to)
-inget  grandpa (talking about)
+inget	grandpa (talking about)
 ngetwa aunt (talking to)
-inget  aunt (talking about)
+inget	aunt (talking about)
 Maria, mỳj ne ga o dja? Maria, what are you doing?
-Kupip ne ba 'yr o dja  I’m weaving a sleeping mat
-Nhym akamydjwỳ. Djãm kupip ne 'yr o dja?    And your brother, is he also weaving a sleeping mat?
-Kati. Kruw ne imrô o nhỹ    No, he's putting feathers on some arrows
-Arỳm ne ba kuma.    Now, I understand!
-Mỳj ne me prĩre o ba?   What are the kids doing?
-Me bixaêr o ba  They're playing.
-imrô    to warp
-kruw    arrow
-kuma    to know
-kuma    to understand
-o dja   to do
-o dja   to make
+Kupip ne ba 'yr o dja	I’m weaving a sleeping mat
+Nhym akamydjwỳ. Djãm kupip ne 'yr o dja?		And your brother, is he also weaving a sleeping mat?
+Kati. Kruw ne imrô o nhỹ		No, he's putting feathers on some arrows
+Arỳm ne ba kuma.		Now, I understand!
+Mỳj ne me prĩre o ba?	 What are the kids doing?
+Me bixaêr o ba	They're playing.
+imrô		to warp
+kruw		arrow
+kuma		to know
+kuma		to understand
+o dja	 to do
+o dja	 to make
 'yr to weave
-Nã bãm 'yr o dja    I'm weaving
-Nã gãm 'yr o dja    You're weaving
-Nãm ar 'yr o dja    They're weaving
-Nãm me 'yr o dja    everyone's weaving
-Nã bãm põnh o dja.    I'm washing
-Nã gãm põnh o dja.    You're washing
-Nâm ar põnh o dja.    They're washing
-Nâm ar põnh o dja.    Everyone's washing
-Nã bãm inhõ kwỳ krẽn o dja  I'm eating
-Nã gãm inhõ kwỳ krẽn o dja  You're eating
-Nâm ar inhõ kwỳ krẽn o dja  They're eating
-Nãm me inhõ kwỳ krẽn o dja  Everyone's eating
-Kikrene ba kapõnh o dja.    I'm sweeping the house
-Ba itor o iba.  I'm dancing
-Ga tor o aba.  You're dancing
-Ar tor o ba.  They're dancing
-Me tor o ba.  Everyone's dancing
-Ba itor ar o iba.   I'm dancing
-Ba ibixaêr ar o iba.   I'm playing
-Ba ron krã ar o iba.   I'm playing ron krã
-Ba bora japĩn ar o iba.   I'm playing soccer
-Ba karêr ar o iba.   I'm digging with a hoe
-Ar tor ar o ba.   They're (few) dancing
-Ar bixaêr ar o ba.   They're (few) playing
-Ar ron krã ar o ba.   They're (few) playing ron krã
-Ar bora japĩn ar o ba.   They're (few) playing soccer
-Ar karêr ar o iba.   They're (few) digging with a hoe
+Nã bãm 'yr o dja		I'm weaving
+Nã gãm 'yr o dja		You're weaving
+Nãm ar 'yr o dja		They're weaving
+Nãm me 'yr o dja		everyone's weaving
+Nã bãm põnh o dja.		I'm washing
+Nã gãm põnh o dja.		You're washing
+Nâm ar põnh o dja.		They're washing
+Nâm ar põnh o dja.		Everyone's washing
+Nã bãm inhõ kwỳ krẽn o dja	I'm eating
+Nã gãm inhõ kwỳ krẽn o dja	You're eating
+Nâm ar inhõ kwỳ krẽn o dja	They're eating
+Nãm me inhõ kwỳ krẽn o dja	Everyone's eating
+Kikrene ba kapõnh o dja.		I'm sweeping the house
+Ba itor o iba.	I'm dancing
+Ga tor o aba.	You're dancing
+Ar tor o ba.	They're dancing
+Me tor o ba.	Everyone's dancing
+Ba itor ar o iba.	 I'm dancing
+Ba ibixaêr ar o iba.	 I'm playing
+Ba ron krã ar o iba.	 I'm playing ron krã
+Ba bora japĩn ar o iba.	 I'm playing soccer
+Ba karêr ar o iba.	 I'm digging with a hoe
+Ar tor ar o ba.	 They're (few) dancing
+Ar bixaêr ar o ba.	 They're (few) playing
+Ar ron krã ar o ba.	 They're (few) playing ron krã
+Ar bora japĩn ar o ba.	 They're (few) playing soccer
+Ar karêr ar o iba.	 They're (few) digging with a hoe
 Mỳj ne ar *ar o ba? What are they (few) doing?
-Àmnire  Sister
+Àmnire	Sister
 Mỳ? What?
 Arỳm ne ba awỳr bôx I arrived
-Nhym nã?    Who is you?
-Ba  It's me
-Djãm ga?    Is it you?
-Ãã, ba  Yes, it's me
-Ajbir ne ba purkurũm bôx    I just arrived from the farm
-Djãm amã bày kĩnh?   Do you like corn?
-Ãã, imã kĩnhĩ   I like it too much
-Mĩ. Amim 'õ by  Get some for you
-Mrãmri. Mexkumrẽx.  It's very good.
-amim    for myself
-kurũm   from
-kurũm   of
-Ikamy ne bôx.  My brother arrived.
-Bẽnjadjwỳr ne bôx.  The boss arrived.
-Kubẽ ne bôx.  The foreigner arrived.
-Ikamy ne bôx.  My brother arrived.
-Ibãm ne bôx.  My father arrived.
-Nhym ne bôx?    Who arrived?
-Mỳj me'õ ne bôx?    Who arrived?
-Mỳj me'õ ne tỹm?    Who fell?
-Mỳj me'õ ne tyk?    Who died?
-Mỳj me'õ ne muw?    Who's crying?
-Mỳj me'õ ne kabẽn ne?    Who's talking?
-Mỳj me'õ ne nhỹ?    Who's sitting?
-Djãm arỳm ne ga djuw?   Have you already taken bath?
-Ãã ajbir ne ba djuw.    Yes, I finished it just now
-Ba te akôt itẽmmã   I almost went with you, but it didn't work out.
-Gadjwỳ. Djãm arỳm ne ga djuw?   And you? Have you been there?
-Idjwỳr ket rã'ã.    Not yet.
+Nhym nã?		Who is you?
+Ba	It's me
+Djãm ga?		Is it you?
+Ãã, ba	Yes, it's me
+Ajbir ne ba purkurũm bôx		I just arrived from the farm
+Djãm amã bày kĩnh?	 Do you like corn?
+Ãã, imã kĩnhĩ	 I like it too much
+Mĩ. Amim 'õ by	Get some for you
+Mrãmri. Mexkumrẽx.	It's very good.
+amim		for myself
+kurũm	 from
+kurũm	 of
+Ikamy ne bôx.	My brother arrived.
+Bẽnjadjwỳr ne bôx.	The boss arrived.
+Kubẽ ne bôx.	The foreigner arrived.
+Ikamy ne bôx.	My brother arrived.
+Ibãm ne bôx.	My father arrived.
+Nhym ne bôx?		Who arrived?
+Mỳj me'õ ne bôx?		Who arrived?
+Mỳj me'õ ne tỹm?		Who fell?
+Mỳj me'õ ne tyk?		Who died?
+Mỳj me'õ ne muw?		Who's crying?
+Mỳj me'õ ne kabẽn ne?		Who's talking?
+Mỳj me'õ ne nhỹ?		Who's sitting?
+Djãm arỳm ne ga djuw?	 Have you already taken bath?
+Ãã ajbir ne ba djuw.		Yes, I finished it just now
+Ba te akôt itẽmmã	 I almost went with you, but it didn't work out.
+Gadjwỳ. Djãm arỳm ne ga djuw?	 And you? Have you been there?
+Idjwỳr ket rã'ã.		Not yet.
 Gu on djuw. Let's go now.
-Ãã, gu on. Idjwỳr prãm. Aringro tỳ:xi.  Sure! Let's go. I really want to go! It's so hot!
-djwỳ    too
-djwỳr   to take a bath
-djuw    to take a bath
-on  to start an action
-on  to go
-te  in vain
-te  unsuccessful
-Itẽm kêt    I didn't go
-Itor kêt    I didn't dance
-Inõr kêt    I didn't lie down
-Idjwỳr kêt    I didn't take bath
-Irwỳk kêt    I didn't go down
-Imỳr kêt    I didn't cry
-Inhõt kêt    I didn't sleep
-Ba tẽ   I went
-Ba to   I danced
-Ba nõ   I lay down
-Ba djuw   I took bath
-Ba ruw   I went down
-Ba muw   I cried
-Ba ngõr   I slept
+Ãã, gu on. Idjwỳr prãm. Aringro tỳ:xi.	Sure! Let's go. I really want to go! It's so hot!
+djwỳ		too
+djwỳr	 to take a bath
+djuw		to take a bath
+on	to start an action
+on	to go
+te	in vain
+te	unsuccessful
+Itẽm kêt		I didn't go
+Itor kêt		I didn't dance
+Inõr kêt		I didn't lie down
+Idjwỳr kêt		I didn't take bath
+Irwỳk kêt		I didn't go down
+Imỳr kêt		I didn't cry
+Inhõt kêt		I didn't sleep
+Ba tẽ	 I went
+Ba to	 I danced
+Ba nõ	 I lay down
+Ba djuw	 I took bath
+Ba ruw	 I went down
+Ba muw	 I cried
+Ba ngõr	 I slept
 Djãm arỳm ne ga tẽ? Did you go?
 Djãm arỳm ne ga to? Did you dance?
 Djãm arỳm ne ga nõ? Did you lie down?
-Djãm arỳm ne ga djuw?   Did you take bath?
-Djãm arỳm ne ga ruw?    Did you go down?
-Djãm arỳm ne ga muw?    Did you cry?
-Djãm arỳm ne ga ngõr?   Did you sleep?
-Itẽm kêt    I didn't go yet
-Itor kêt    I didn't dance yet
-Inõr kêt    I didn't lie down
-Idjwỳr kêt    I didn't take bath
-Irwỳk kêt    I didn't go down
-Imỳr kêt    I didn't cry
-Inhõt kêt    I didn't sleep
+Djãm arỳm ne ga djuw?	 Did you take bath?
+Djãm arỳm ne ga ruw?		Did you go down?
+Djãm arỳm ne ga muw?		Did you cry?
+Djãm arỳm ne ga ngõr?	 Did you sleep?
+Itẽm kêt		I didn't go yet
+Itor kêt		I didn't dance yet
+Inõr kêt		I didn't lie down
+Idjwỳr kêt		I didn't take bath
+Irwỳk kêt		I didn't go down
+Imỳr kêt		I didn't cry
+Inhõt kêt		I didn't sleep
 Djãm arỳm ne ga tẽ? Did you go?
 Djãm arỳm ne ga to? Did you danced?
 Djãm arỳm ne ga nõ? Did you lie down?
@@ -693,323 +693,323 @@ Djãm arỳm ne ga djuw? Did you take bath?
 Djãm arỳm ne ga ruw? Did you go down?
 Djãm arỳm ne ga muw? Did you cry?
 Djãm arỳm ne ga ngõr? Did you sleep?
-Purmã ne ba tẽ  I went to the farm
-Purmã ne ga tẽ  You went to the farm
-Purmã ne gu tẽ  We (me and we) went to the farm
-Purmã ne tẽ  He went to the farm
+Purmã ne ba tẽ	I went to the farm
+Purmã ne ga tẽ	You went to the farm
+Purmã ne gu tẽ	We (me and we) went to the farm
+Purmã ne tẽ	He went to the farm
 Purmã ne tẽ She went to the farm
-Purmã ne ba itẽm kêt    I didn't go to the farm
-Purmã ne ga atẽm kêt    You didn't go to the farm
-Purmã ne gu batẽm kêt    We (me and you) didn't go to the farm
-Purmã ne ba tẽm    He didn't go to the farm
-Purmã ne ba tẽm    She didn't go to the farm
-Itẽm kêt   I didn't go
-Itẽm bit   I just went
-Itẽm kumrẽx   I went and I'm not coming back anymore
-Itor kêt   I didn't dance
-Itor bit   I just dance
-Itor kumre:x   I danced for a long time
-Itor mex   I danced well
-Inõr kêt   I didn't lie down
-Inõr bit   I just lie down
-Idjwyr kêt   I didn't take bath
-Idjwyr mex   I took a very good bath
-Idjwyr kume:x   I took bath for a long time
-Irwỳk kêt  I didn't go down
-Irwỳk bit  I just go down
-Imỳr kêt    I didn't cry
-Imỳr bit    I just cry
-Imỳr kume:x    I cried a lot
-Inhõt kêt    I didn't sleep
-Inhõt bit    I just sleep
-Inhõt mex    I slept well
+Purmã ne ba itẽm kêt		I didn't go to the farm
+Purmã ne ga atẽm kêt		You didn't go to the farm
+Purmã ne gu batẽm kêt		We (me and you) didn't go to the farm
+Purmã ne ba tẽm		He didn't go to the farm
+Purmã ne ba tẽm		She didn't go to the farm
+Itẽm kêt	 I didn't go
+Itẽm bit	 I just went
+Itẽm kumrẽx	 I went and I'm not coming back anymore
+Itor kêt	 I didn't dance
+Itor bit	 I just dance
+Itor kumre:x	 I danced for a long time
+Itor mex	 I danced well
+Inõr kêt	 I didn't lie down
+Inõr bit	 I just lie down
+Idjwyr kêt	 I didn't take bath
+Idjwyr mex	 I took a very good bath
+Idjwyr kume:x	 I took bath for a long time
+Irwỳk kêt	I didn't go down
+Irwỳk bit	I just go down
+Imỳr kêt		I didn't cry
+Imỳr bit		I just cry
+Imỳr kume:x		I cried a lot
+Inhõt kêt		I didn't sleep
+Inhõt bit		I just sleep
+Inhõt mex		I slept well
 Itẽm
-Itẽm kêtkumrẽx  Actually, I didn't go
-Djãm itẽm kêtgot!   Didn't I go?
+Itẽm kêtkumrẽx	Actually, I didn't go
+Djãm itẽm kêtgot!	 Didn't I go?
 Krĩ'ỳr ne ba tẽ I went to the village
-Mum krĩ'ỳr ne ba tẽ   I went to the village, far away
-Onij krĩrax'ỳr ne ba tẽ.   I went to the village, very far from here
-Kikre'ỳr ne ba to   I danced in the direction of the house
-Mum kikre'ỳr ne ba to   I danced in the direction of the house, far away
-Onij kikre rax'ỳr ne ba to  I danced in the direction of the house, very far from here
-Tebê ne ba djuw    I took a shower quickly
-Ngo màtkam ne ba djuw   I bathed in the stream.
-Ba ruw  I went down
-Tebê ne ba ruw  I went down very quickly
-Ngo màtkam ne ba ruw    I went down in the river
-Ibôx kêt.  I didn't arrive
-Inox kêt.  I didn't sink
-Itỹm kêt.  I didn't fall
-Ba bôx.    I arrived
-Ba nox.    I sank
-Ba tỹm.    I fell
-Djãm arỳm ne ga bôx?   Did you arrive?
-Djãm arỳm ne ga nox?   Did you sink?
-Djãm arỳm ne ga tỹm?   Did you fall?
+Mum krĩ'ỳr ne ba tẽ	 I went to the village, far away
+Onij krĩrax'ỳr ne ba tẽ.	 I went to the village, very far from here
+Kikre'ỳr ne ba to	 I danced in the direction of the house
+Mum kikre'ỳr ne ba to	 I danced in the direction of the house, far away
+Onij kikre rax'ỳr ne ba to	I danced in the direction of the house, very far from here
+Tebê ne ba djuw		I took a shower quickly
+Ngo màtkam ne ba djuw	 I bathed in the stream.
+Ba ruw	I went down
+Tebê ne ba ruw	I went down very quickly
+Ngo màtkam ne ba ruw		I went down in the river
+Ibôx kêt.	I didn't arrive
+Inox kêt.	I didn't sink
+Itỹm kêt.	I didn't fall
+Ba bôx.		I arrived
+Ba nox.		I sank
+Ba tỹm.		I fell
+Djãm arỳm ne ga bôx?	 Did you arrive?
+Djãm arỳm ne ga nox?	 Did you sink?
+Djãm arỳm ne ga tỹm?	 Did you fall?
 Kati. Ibôx kêt rã'ã No, I didn't arrive yet
 Kati. Inox kêt rã'ã No, I didn't sink yet
 Kati. Itỹm kêt rã'ã No, I didn't fall yet
-Djãm arỳm ne ga bôx?   Did you arrive?
-Djãm arỳm ne ga nox?   Did you sink?
-Djãm arỳm ne ga tỹm?   Did you fall?
+Djãm arỳm ne ga bôx?	 Did you arrive?
+Djãm arỳm ne ga nox?	 Did you sink?
+Djãm arỳm ne ga tỹm?	 Did you fall?
 Aã, arỳrm ne ba bôx yes, I already arrived
 Aã, arỳrm ne ba nox yes, I already sank
 Aã, arỳrm ne ba tým yes, I already fell
 Purmã ne bar mõ We (a small group) went to the farm
 Purmã ne gar mõ You all (a small group) went to the farm
-Purmã ne gwaj mõ    We (me and you) went to the farm
-Purmã ne ar mõ  They (a small group) went to the farm
-Purmã ne ar imõr kêt    We (a small group, except you) didn't go to the farm
-Purmã ne ar amõr kêt    You all (a small group) didn't go to the farm
-Purmã ne gwaj bamõr kêt    We (a small group, including you and me) didn't go to the farm
-Purmã ne ar mõr kêt    They (a small group) didn't go to the farm
+Purmã ne gwaj mõ		We (me and you) went to the farm
+Purmã ne ar mõ	They (a small group) went to the farm
+Purmã ne ar imõr kêt		We (a small group, except you) didn't go to the farm
+Purmã ne ar amõr kêt		You all (a small group) didn't go to the farm
+Purmã ne gwaj bamõr kêt		We (a small group, including you and me) didn't go to the farm
+Purmã ne ar mõr kêt		They (a small group) didn't go to the farm
 Ngy'ã ne ga tỹm You fell in the mud
-Ngô myrri ne ga tỹm.    You fell by the riverbank
-Akamàtkam ne ikra àn    Yesterday, my baby hurt me
-Ne kam akamàt ngrirekam, na krakkam ne ruw  As soon as it got dark, while it was raining heavily, my baby was born
-Ikra ni ne ruw  The baby was a girl
-Ikramẽ iprõ ne mexkumrẽx    The baby and my wife are doing well
+Ngô myrri ne ga tỹm.		You fell by the riverbank
+Akamàtkam ne ikra àn		Yesterday, my baby hurt me
+Ne kam akamàt ngrirekam, na krakkam ne ruw	As soon as it got dark, while it was raining heavily, my baby was born
+Ikra ni ne ruw	The baby was a girl
+Ikramẽ iprõ ne mexkumrẽx		The baby and my wife are doing well
 Me bengôkre djukane'ỳr ne ba tẽ I’ve already gotten tribal medicine for them
-akamàt  at mohjy
-akamàt ngrire   at dusk
-àn  to feel labor pains
+akamàt	at mohjy
+akamàt ngrire	 at dusk
+àn	to feel labor pains
 kra baby
 kra son
 kra daughter
-krar    the sound of something breaking
-krak    the sound of something breaking
-na  raining
-ni  female
-ukane   tribal medicine
-Idjujarẽnh kêt  I didn't tell everything about this
-Idjàptõr kêt  I didn't spit
-Idjũmjanh kêt  I didn't chew it
-Ba ajarẽ    I told everything about this
-Ba apto    I spat
-Ba ũmja    I chewed it
-Djã ne ga ajarẽ?    Did you tell everything about this?
-Djã ne ga aptô?    Did you spit?
-Djã ne ga ũmja?    Did you chew iy?
-Ãã. Ba ajarẽ.   Yes, I told everything about it
-Ãã. Ba aptô.   Yes, I spat
-Ãã. Ba ũmja.   Yes, I chewed it
-Purmã ne ba me mõ.  We all went to work in the fields
-Purmã ne ba me mõ.  We (a big group) went to work in the fields
-Purmã ne ga me mõ.  You all went to work in the fields
-Purmã ne ga me mõ.  You (a big group) went to work in the fields
-Purmã ne gu me mõ.  We (me and you) and everyone else went to work in the fields
-Purmã ne me mõ.  They all went to work in the fields
-Purmã ne me mõ.  They (a big group) went to work in the fields
-Purmã ne me imôr kêt.  We all (except you) didn't go to work in the fields
-Purmã ne me imôr kêt.  We (a big group except you) didn't go to work in the fields
-Purmã ne me amõr kêt.  You all didn't go to work in the fields
-Purmã ne me amõr kêt.  You (a big group) didn't go to work in the fields
-Purmã ne me bamõr kêt.  We (you and me) didn't go to work in the fields
-Purmã ne me mõr kêt.  They all didn't go to work in the fields
-Purmã ne me mõr kêt.  They (a big group) didn't go to work in the fields
-Djãm Kôkôtine àptorgot!   Did Kôkôti spit! (He didn't!)
+krar		the sound of something breaking
+krak		the sound of something breaking
+na	raining
+ni	female
+ukane	 tribal medicine
+Idjujarẽnh kêt	I didn't tell everything about this
+Idjàptõr kêt	I didn't spit
+Idjũmjanh kêt	I didn't chew it
+Ba ajarẽ		I told everything about this
+Ba apto		I spat
+Ba ũmja		I chewed it
+Djã ne ga ajarẽ?		Did you tell everything about this?
+Djã ne ga aptô?		Did you spit?
+Djã ne ga ũmja?		Did you chew iy?
+Ãã. Ba ajarẽ.	 Yes, I told everything about it
+Ãã. Ba aptô.	 Yes, I spat
+Ãã. Ba ũmja.	 Yes, I chewed it
+Purmã ne ba me mõ.	We all went to work in the fields
+Purmã ne ba me mõ.	We (a big group) went to work in the fields
+Purmã ne ga me mõ.	You all went to work in the fields
+Purmã ne ga me mõ.	You (a big group) went to work in the fields
+Purmã ne gu me mõ.	We (me and you) and everyone else went to work in the fields
+Purmã ne me mõ.	They all went to work in the fields
+Purmã ne me mõ.	They (a big group) went to work in the fields
+Purmã ne me imôr kêt.	We all (except you) didn't go to work in the fields
+Purmã ne me imôr kêt.	We (a big group except you) didn't go to work in the fields
+Purmã ne me amõr kêt.	You all didn't go to work in the fields
+Purmã ne me amõr kêt.	You (a big group) didn't go to work in the fields
+Purmã ne me bamõr kêt.	We (you and me) didn't go to work in the fields
+Purmã ne me mõr kêt.	They all didn't go to work in the fields
+Purmã ne me mõr kêt.	They (a big group) didn't go to work in the fields
+Djãm Kôkôtine àptorgot!	 Did Kôkôti spit! (He didn't!)
 Iba kêt I'm not going (repeatedly)
-Iku'ê*  I'm not getting up (repeatedly)
-Ipròt   I'm not running
+Iku'ê*	I'm not getting up (repeatedly)
+Ipròt	 I'm not running
 Ikukwỳr I'm not crawling
-Ikator  I'm not leaving
-Ikrĩn   I'm not sitting (repeatedly)
-Inhikwãnh   I'm not laying down (repeatedly)
-Ba iba  I'm going (repeatedly)
-Ba iku'ê  I'm getting up (repeatedly)
-Ba iprõt   I'm running
+Ikator	I'm not leaving
+Ikrĩn	 I'm not sitting (repeatedly)
+Inhikwãnh	 I'm not laying down (repeatedly)
+Ba iba	I'm going (repeatedly)
+Ba iku'ê	I'm getting up (repeatedly)
+Ba iprõt	 I'm running
 Ba ikukwỳr I'm crawling
-Ba ikato  I'm leaving
-Ba ikrĩn   I'm sitting (repeatedly)
-Ba inhikwã   I'm laying down (repeatedly)
-Bar purmã te.   We (someone and me) went to the farm
-Gar purmã te.   You (and some others) went to the farm
-Gwaj purmã te.   We (me and you) and other(s) went to the farm
+Ba ikato	I'm leaving
+Ba ikrĩn	 I'm sitting (repeatedly)
+Ba inhikwã	 I'm laying down (repeatedly)
+Bar purmã te.	 We (someone and me) went to the farm
+Gar purmã te.	 You (and some others) went to the farm
+Gwaj purmã te.	 We (me and you) and other(s) went to the farm
 Kryràm ne ba tẽ I went early
-Ba kam iprõmẽ ar kam idjàpênh   So, my wife and me work in the fields
-Kwỳ, ba kam pa jakàn o mrãn akà'ã kurẽ  After burning the field, I cut the branches and threw them along its edges
-Prĩne djwỳmã karên kam kam kre  I completely cleared the field to plant in it, and then I planted it
-Môpmẽ tyrtimẽ katẽbàrmẽ katẽmẽ. Kadjwatimẽ bàymẽ kadjàtmẽ karinhômẽ katẽtàmkurmẽ kre.   I planted cara, bananas, papaya, sugar cane, corn, tobacco and watermelon
-Arỳm kam kre pa nhym arỳm ingrõt    I have already finished planting and the seeds germinated
-Arỳm ingrõn abatành ne  They germinated and are growing
-akà'ã   in the borders of
-akàr    to cut off completely
-akà    to cut off completely
-àpênh   to work
+Ba kam iprõmẽ ar kam idjàpênh	 So, my wife and me work in the fields
+Kwỳ, ba kam pa jakàn o mrãn akà'ã kurẽ	After burning the field, I cut the branches and threw them along its edges
+Prĩne djwỳmã karên kam kam kre	I completely cleared the field to plant in it, and then I planted it
+Môpmẽ tyrtimẽ katẽbàrmẽ katẽmẽ. Kadjwatimẽ bàymẽ kadjàtmẽ karinhômẽ katẽtàmkurmẽ kre.	 I planted cara, bananas, papaya, sugar cane, corn, tobacco and watermelon
+Arỳm kam kre pa nhym arỳm ingrõt		I have already finished planting and the seeds germinated
+Arỳm ingrõn abatành ne	They germinated and are growing
+akà'ã	 in the borders of
+akàr		to cut off completely
+akà		to cut off completely
+àpênh	 to work
 àpê to work
-iprõ    my wife
-rẽnh    to play
-kurẽ    to play
-Ije kakôr kêt   I didn't play an instrument
-Ije kakrẽnh kêt   I didn't scratch it
-Ije kapõnh kêt   I didn't sweep
-Ije kapõnh kêt   I didn't weed it
-Ije karêr kêt   I didn't scream
-Ije kudjônh kêt   I didn't peel it
-Ba kakô   I played an instrument
-Ba kakrê   I scratched it
-Ba kapõ   I swept it
-Ba karê   I weeded it
-Ba kà   I screamed
-Ba kudjô   I peeled it
-Ije kapõnh kêt rã'ã.    I didn't sweep yet
-Aje kapõnh kêt rã'ã.    You didn't sweep yet
-Gu baje kapõnh kêt rã'ã.    We (you and me) didn't sweep yet
-Kute kapõnh kêt rã'ã.    He didn't sweep yet
-Kute kapõnh kêt rã'ã.    She didn't sweep yet
-Ije karêr 'ỳr   I'm ready to weed it now
-Ije karêr mex   I weeded it well
-Ije karêr mã    I'm going to do some weeding
-Ije pur karêr kêt   I didn't weed with a machete
-Ije kàxo karêr kêt  I didn’t weed the field with a machete
-Ije kikre bu'ã karêr kêt    I didn't weed around the house
-Ba kàxo  karê   I weeded with a machete
-Ba kàxo pur karê.   I weeded the field with a machete
-Ba kikre bu'ã karê  I weeded around the house
-Ije kaki kêt.   I didn't try the food
-Ije kre kêt.   I didn't plant it
-Ije kanga kêt.   I didn't abandon him
-Ije kane kêt.   I didn't treat the disease
-Ije 'ôk kêt.   I didn't paint the body
-Ije kaprêprêk kêt.   I didn't knock
-Ba kaki.   I tried the food
-Ba kre.   I planted it
-Ba kanga.   I abandoned him
-Ba kane.   I treated the disease
-Ba 'ôk.   I painted the body
-Ba kaprêprêk.   I knocked
-Mỳkam ne ga kaki?   Why did you try the food?
-Mỳkam ne ga kre?   Why did you plant it?
-Mỳkam ne ga kanga?   Why did you abandon him?
-Mỳkam ne ga kanga?   Why did you abandon her?
-Mỳkam ne ga kane?   Why did you try the treated the disease?
-Mỳkam ne ga 'ôk?   Why did you painted the body?
-Mỳkam ne ga kaprêprêk?   Why did you knock?
-Aje kane 'ỳr    You're almost treating the disease
-Aje kane mex    You treated well the disease
-Aje kane mã    You pretend to treat the disease.
-Aje ikaprêprêk kêt  You didn't hurt me
-Ije akaprêprêk kêt  I didn't hurt you
-Ba ajôk    I painted you
-Ba prĩne ajôk   I painted you carefully
-Me kunĩ ne me imã pur dji   Everyone help me clean the field
-Amex totokbê ne me my pur'ỳr mrãn par prã   At the beginning of the drought, the men go to the new fields and brush the bushes
+iprõ		my wife
+rẽnh		to play
+kurẽ		to play
+Ije kakôr kêt	 I didn't play an instrument
+Ije kakrẽnh kêt	 I didn't scratch it
+Ije kapõnh kêt	 I didn't sweep
+Ije kapõnh kêt	 I didn't weed it
+Ije karêr kêt	 I didn't scream
+Ije kudjônh kêt	 I didn't peel it
+Ba kakô	 I played an instrument
+Ba kakrê	 I scratched it
+Ba kapõ	 I swept it
+Ba karê	 I weeded it
+Ba kà	 I screamed
+Ba kudjô	 I peeled it
+Ije kapõnh kêt rã'ã.		I didn't sweep yet
+Aje kapõnh kêt rã'ã.		You didn't sweep yet
+Gu baje kapõnh kêt rã'ã.		We (you and me) didn't sweep yet
+Kute kapõnh kêt rã'ã.		He didn't sweep yet
+Kute kapõnh kêt rã'ã.		She didn't sweep yet
+Ije karêr 'ỳr	 I'm ready to weed it now
+Ije karêr mex	 I weeded it well
+Ije karêr mã		I'm going to do some weeding
+Ije pur karêr kêt	 I didn't weed with a machete
+Ije kàxo karêr kêt	I didn’t weed the field with a machete
+Ije kikre bu'ã karêr kêt		I didn't weed around the house
+Ba kàxo	karê	 I weeded with a machete
+Ba kàxo pur karê.	 I weeded the field with a machete
+Ba kikre bu'ã karê	I weeded around the house
+Ije kaki kêt.	 I didn't try the food
+Ije kre kêt.	 I didn't plant it
+Ije kanga kêt.	 I didn't abandon him
+Ije kane kêt.	 I didn't treat the disease
+Ije 'ôk kêt.	 I didn't paint the body
+Ije kaprêprêk kêt.	 I didn't knock
+Ba kaki.	 I tried the food
+Ba kre.	 I planted it
+Ba kanga.	 I abandoned him
+Ba kane.	 I treated the disease
+Ba 'ôk.	 I painted the body
+Ba kaprêprêk.	 I knocked
+Mỳkam ne ga kaki?	 Why did you try the food?
+Mỳkam ne ga kre?	 Why did you plant it?
+Mỳkam ne ga kanga?	 Why did you abandon him?
+Mỳkam ne ga kanga?	 Why did you abandon her?
+Mỳkam ne ga kane?	 Why did you try the treated the disease?
+Mỳkam ne ga 'ôk?	 Why did you painted the body?
+Mỳkam ne ga kaprêprêk?	 Why did you knock?
+Aje kane 'ỳr		You're almost treating the disease
+Aje kane mex		You treated well the disease
+Aje kane mã		You pretend to treat the disease.
+Aje ikaprêprêk kêt	You didn't hurt me
+Ije akaprêprêk kêt	I didn't hurt you
+Ba ajôk		I painted you
+Ba prĩne ajôk	 I painted you carefully
+Me kunĩ ne me imã pur dji	 Everyone help me clean the field
+Amex totokbê ne me my pur'ỳr mrãn par prã	 At the beginning of the drought, the men go to the new fields and brush the bushes
 Ne kam kam kukà Then, they cut the trees
-Nhym kam nõn kam ngrà ba me kam kum angij   They leave them there until they are completely dry, and then they burn them
-Nhym kam kwỳn.  The fields are burned.
+Nhym kam nõn kam ngrà ba me kam kum angij	 They leave them there until they are completely dry, and then they burn them
+Nhym kam kwỳn.	The fields are burned.
 Nã bãm me kum angij We’ve already set fire to them.
-Ne kam ajte karên krax rê.  Then, we brush them again and remove the small stumps
-Kwỳ totokbê ne ba me amĩm djwỳmã karê   Soon after we burned the field, we weed'in preparation for planting
-Ne arỳm kam djwỳ kre    So far, we’ve already planted everything
-amex    summer
-amex    dry season
-djwỳ    farm products
-kum angij   set fire to
+Ne kam ajte karên krax rê.	Then, we brush them again and remove the small stumps
+Kwỳ totokbê ne ba me amĩm djwỳmã karê	 Soon after we burned the field, we weed'in preparation for planting
+Ne arỳm kam djwỳ kre		So far, we’ve already planted everything
+amex		summer
+amex		dry season
+djwỳ		farm products
+kum angij	 set fire to
 angjênh set fire to
 me kunĩ everyone
 par prã to weed the undergrowth beneath the trees
-Ije mry jabej kêt   I didn't look for meat
-Ije mry janhĩ kêt   I didn’t remove the meat (with a tool)
-Ije ikra nhigo kêt   I didn't whisper for my son
-Ije ikra jajtẽk kêt   I didn't paint my son's cheeks
-Ije kruw nhimrô kêt   I didn’t fletch the arrow.
-Ije kikre nhipêx kêt   I don't do the house
-Ije abej kêt   I didn't look for it
-Ije anhĩ kêt   I didn’t remove it (with a tool)
-Ije igo kêt   I didn't whisper for him
-Ije igo kêt   I didn't whisper for her
-Ije ajtẽk kêt   I didn't paint it
-Ije imrô kêt   I fletched it
-Ije ipêx kêt   I do it
-Kute abej kêt   He didn't look for it
-Kute abej 'ỳr   He's almost looking for it
-Kute abej mã   He's going to look for it
-Ije amã imrô kêt    I didn't fletch it for you
-Ije ngônhkam mry janhĩ kêt  I didn’t take the meat out of the bowl
+Ije mry jabej kêt	 I didn't look for meat
+Ije mry janhĩ kêt	 I didn’t remove the meat (with a tool)
+Ije ikra nhigo kêt	 I didn't whisper for my son
+Ije ikra jajtẽk kêt	 I didn't paint my son's cheeks
+Ije kruw nhimrô kêt	 I didn’t fletch the arrow.
+Ije kikre nhipêx kêt	 I don't do the house
+Ije abej kêt	 I didn't look for it
+Ije anhĩ kêt	 I didn’t remove it (with a tool)
+Ije igo kêt	 I didn't whisper for him
+Ije igo kêt	 I didn't whisper for her
+Ije ajtẽk kêt	 I didn't paint it
+Ije imrô kêt	 I fletched it
+Ije ipêx kêt	 I do it
+Kute abej kêt	 He didn't look for it
+Kute abej 'ỳr	 He's almost looking for it
+Kute abej mã	 He's going to look for it
+Ije amã imrô kêt		I didn't fletch it for you
+Ije ngônhkam mry janhĩ kêt	I didn’t take the meat out of the bowl
 Ije amã bàkam mry jabej kêt I didn't look for the meat in the woods for you
-Ije pĩ jakàr kêt    I didn't cut the firewood
-Ije pĩ jamỳnh kêt    I didn't look for the firewood
-Ije pĩ janhôr kêt    I didn't hang the firewood
-Ije akàr kêt    I didn't cut it
-Ije amỳnh kêt    I didn't look for it
-Ije anhôr kêt    I didn't hang it
-Ba pĩ jakà  I cut the firewood
-Ba pĩ jamỳ  I looked for the firewood
-Ba pĩ janhô  I hung the firewood
-Ba akà   I cut it
+Ije pĩ jakàr kêt		I didn't cut the firewood
+Ije pĩ jamỳnh kêt		I didn't look for the firewood
+Ije pĩ janhôr kêt		I didn't hang the firewood
+Ije akàr kêt		I didn't cut it
+Ije amỳnh kêt		I didn't look for it
+Ije anhôr kêt		I didn't hang it
+Ba pĩ jakà	I cut the firewood
+Ba pĩ jamỳ	I looked for the firewood
+Ba pĩ janhô	I hung the firewood
+Ba akà	 I cut it
 Ba 'amỳ I looked for it
 Ba anhô I hung it
-Ije ajaêr kêt.  I didn't scary you
-Ije ajarẽnh kêt.  I didn't talk about you
-Ije ajanor kêt.  I didn't order you
+Ije ajaêr kêt.	I didn't scary you
+Ije ajarẽnh kêt.	I didn't talk about you
+Ije ajanor kêt.	I didn't order you
 Ije aêr kêt I didn't scary him
 Ije aêr kêt I didn't scary her
-Ije arẽnh kêt   I didn't talk about it
-Ije anor kêt    I didn't order this
-Ba ajaê.    I scaried you
-Ba ajarẽ.    I talked about you
-Ba ajano.    I ordered you
-Ba aê.    I scaried he
-Ba aê.    I scaried her
-Ba arẽ    I talked about this
-Ba ano.    I ordered this
-Bàkam ne ba tẽ  I went to the woods
-Ba ngôja'ã rẽn tẽn ane nhym kukryt mõ.  I crossed the river and left, and a tapir passed by me
-Ba kam amĩm    I said with me
+Ije arẽnh kêt	 I didn't talk about it
+Ije anor kêt		I didn't order this
+Ba ajaê.		I scaried you
+Ba ajarẽ.		I talked about you
+Ba ajano.		I ordered you
+Ba aê.		I scaried he
+Ba aê.		I scaried her
+Ba arẽ		I talked about this
+Ba ano.		I ordered this
+Bàkam ne ba tẽ	I went to the woods
+Ba ngôja'ã rẽn tẽn ane nhym kukryt mõ.	I crossed the river and left, and a tapir passed by me
+Ba kam amĩm		I said with me
 Je, ba kukrytja mãn bĩ, ane yay, I'll kill that tapir
-Ne kam ate kôt ropreo tẽ    So I follow her with my dog
+Ne kam ate kôt ropreo tẽ		So I follow her with my dog
 Ropreo tẽ:n ane nhym pidjôja'ỳr bôx I took my dog and left, and the tapir got close of the fruitful tree
-Ne kam ar kwỳ kur o ba  she stayed there eating the fruit
-Nhym ropreja kubã ba kam kôt wabi   The dog sniffed her (and follow her) and I went up after her
-Ropreja mã kubãno tẽ    the dog left and follow her
-Arỳm o dja  he harassed the tapir
-Ba kam'ỳr iprõt ne    I ran
+Ne kam ar kwỳ kur o ba	she stayed there eating the fruit
+Nhym ropreja kubã ba kam kôt wabi	 The dog sniffed her (and follow her) and I went up after her
+Ropreja mã kubãno tẽ		the dog left and follow her
+Arỳm o dja	he harassed the tapir
+Ba kam'ỳr iprõt ne		I ran
 Ba kam kubĩ I killed her
 ate unexpectedly
 ate at that moment
-pidjô   fruit
-ropre   dog
-Ije bãr kêt.    I didn't smell it
-Ije par kêt.    I didn't kill
-Ije bĩn kêt.    I didn't kill
-Ba kubã.    I smelled it
-Ba kupa.    I killed
-Ba kubĩ.    I killed
-Ije mry bãr kêt.    I didn't hear the animals' sound
-Ije mry bã kêt.    I heared the animals' sound
+pidjô	 fruit
+ropre	 dog
+Ije bãr kêt.		I didn't smell it
+Ije par kêt.		I didn't kill
+Ije bĩn kêt.		I didn't kill
+Ba kubã.		I smelled it
+Ba kupa.		I killed
+Ba kubĩ.		I killed
+Ije mry bãr kêt.		I didn't hear the animals' sound
+Ije mry bã kêt.		I heared the animals' sound
 Ije angrôwa par kêt I didn't kill those peccaries
-Ije ropre  pytàr kêt.   I didn't save the dog
-Ije 'utàr kêt  I didn't save it
-Ar kikrekadjy bô'ỳr tẽ  They are going to get thatch
-Ar imôkam tẽ    They're going to the lake (far away)
-Rikre kabio tẽ:n arỳm kabi pa.  They're going to choose thatch and finish with it
+Ije ropre	pytàr kêt.	 I didn't save the dog
+Ije 'utàr kêt	I didn't save it
+Ar kikrekadjy bô'ỳr tẽ	They are going to get thatch
+Ar imôkam tẽ		They're going to the lake (far away)
+Rikre kabio tẽ:n arỳm kabi pa.	They're going to choose thatch and finish with it
 Ne kam ate kum kàro tẽ. Soon after, they cut the bundles of thatch
-Kum kàro tẽ:n kam arỳm kum kàr pa   They keep going until they cut all of them
-Ne kam ar ate kapôtmã o apôxo ba:n arỳmo bôx    Walking one behind the other, they carry the thatch to the clearing
+Kum kàro tẽ:n kam arỳm kum kàr pa	 They keep going until they cut all of them
+Ne kam ar ate kapôtmã o apôxo ba:n arỳmo bôx		Walking one behind the other, they carry the thatch to the clearing
 Ne ate kadjy kabôo dja. Then, they all open the thatch leaves.
-Bô kabô pan ate kà'ỳro ba, ne kàkam kumẽ.   When they finish, they carry the thatch to the river, load it into the canoe, and pile it up inside
-kadjy   for the purpose of
-kapôt   clearing
+Bô kabô pan ate kà'ỳro ba, ne kàkam kumẽ.	 When they finish, they carry the thatch to the river, load it into the canoe, and pile it up inside
+kadjy	 for the purpose of
+kapôt	 clearing
 kum for him
 kum for her
 kum for it
-Kryràm ne ba ngijãdjy o tẽ  I brought the deer early
-Kryràm ne ba o tẽ  I brought him early
-Kryràm ne ba o tẽ  I brought her early
-Kryràm ne ba o tẽ  I brought it early
-Kryràm ne ije o itẽm kêt   I didn't brought it early
-Krokrokre ne kjê'i krã:nne, pa krã:nne  The honey-eater’s hind legs are short, and its front legs are short too
+Kryràm ne ba ngijãdjy o tẽ	I brought the deer early
+Kryràm ne ba o tẽ	I brought him early
+Kryràm ne ba o tẽ	I brought her early
+Kryràm ne ba o tẽ	I brought it early
+Kryràm ne ije o itẽm kêt	 I didn't brought it early
+Krokrokre ne kjê'i krã:nne, pa krã:nne	The honey-eater’s hind legs are short, and its front legs are short too
 Ne kam krã jaka:re. Its head is white
 Ne kam amy jakrita. Its tail is thick and hairy
-Kute ijêkre jamypyràk   It looks like the black monkey
-Ne kam kuka po:nhre.    The honey-eater's head is flat.
-Ne krokrokre menhbit ku.    He likes honey
-Ne kam pĩ kakrê:n 'ã kate, ne kam kuku  He scratches the tree until he makes a hole in it, and then eats the honey
+Kute ijêkre jamypyràk	 It looks like the black monkey
+Ne kam kuka po:nhre.		The honey-eater's head is flat.
+Ne krokrokre menhbit ku.		He likes honey
+Ne kam pĩ kakrê:n 'ã kate, ne kam kuku	He scratches the tree until he makes a hole in it, and then eats the honey
 amy tail
-ijêkre  black monkey
+ijêkre	black monkey
 kakrênh scratch
-kakrê   scratch
-kjê'i   thigh
+kakrê	 scratch
+kjê'i	 thigh
 Akamàtkam ne Kôkôti mex During the night, Kokoti was feeling good
 Akamàtkam ne Kôkôti mex Last night, Kokoti was feeling good
 Akamàtkam ne Kôkôti ngryk During the night, Kokoti was feeling angry
@@ -1026,26 +1026,653 @@ Akamàtkam ne Kôkôti tỳx During the night, Kokoti was feeling strong
 Akamàtkam ne Kôkôti tỳx Last night, Kokoti was feeling strong
 Akamàtkam ne Kôkôti punu During the night, Kokoti was feeling bad
 Akamàtkam ne Kôkôti punu Last night, Kokoti was feeling bad
-Mỳj me'õ ne mex?    Who is (that is) feeling well?
-Idjuwabô    I'm tractable
-Idjukaprĩ   I'm kind
+Mỳj me'õ ne mex?		Who is (that is) feeling well?
+Idjuwabô		I'm tractable
+Idjukaprĩ	 I'm kind
 Idjugàk I'm sobbing
-Idjukanga   I'm lazy
+Idjukanga	 I'm lazy
 Djã ne ga adjuwabô? Are you tractable?
-Djã ne ga adjukaprĩ?    Are you kind?
-Djã ne ga adjukanga?    Are you lazy?
-Me ukanga.  They're (all) lazy
-Me ukanga o nhỹ.    They're (all) lazy
+Djã ne ga adjukaprĩ?		Are you kind?
+Djã ne ga adjukanga?		Are you lazy?
+Me ukanga.	They're (all) lazy
+Me ukanga o nhỹ.		They're (all) lazy
 Me ukanga kêtkumrẽx They (all) aren't really lazy
 Ijamrex kêt I'm not willingly to eat meat
-Ijaxwe kêt  I'm not bad
-Ijajne kêt  I'm not satisfied
-Djã ne ga ajamrex?  Are you willingly to eat meat?
-Djã ne ga ajaxwe?   Are you bad?
-Djã ne ga ajajne?  Are you satisfied?
-Axwe    He's bad
-Axwere  He's a little mean
-Axwekumrẽx  He's really bad
-Axwe kêtkumrẽx  He isn't really bad
+Ijaxwe kêt	I'm not bad
+Ijajne kêt	I'm not satisfied
+Djã ne ga ajamrex?	Are you willingly to eat meat?
+Djã ne ga ajaxwe?	 Are you bad?
+Djã ne ga ajajne?	Are you satisfied?
+Axwe		He's bad
+Axwere	He's a little mean
+Axwekumrẽx	He's really bad
+Axwe kêtkumrẽx	He isn't really bad
 Mry twỳm ne me axwe kum ành The people really like the meat fat
-Me mry djàr o dja, ne kam twỳm kunĩ xêr When someone is roasting the meet, the fat burns
+Me mry djàr o dja, ne kam twỳm kunĩ xêr When someone is roasting the meat, the fat burns
+Kà kadjwỳnhbêbit twỳm rã'ã	But the deeper layers of fat remain protected
+Me kunĩ axwe kum mry twỳm djành.		The people really like the roasted meat fat
+bit just
+djàr		roast (in stone oven)
+kuga		roast (in stone oven)
+kadjwỳnhbê	inside
+kunĩ		everyone
+kunĩ		everything
+me kunĩ everyone
+mry meat
+mry animal
+Ta ne kum prãm	That one is hungry
+Ta ne kum kĩnh	That one likes this
+Ta ne kum uma	That one is scaried
+Ta ne kum kurê	That one hates (somebody)
+Ta ne kum abê	That one loves (somebody)
+Ta ne kum kaprĩ	That one penalizes himself
+Ta ne kum ành	That one loves (somebody)
+Djãm gu bamã prãm kêtgot		We (you and me) are really hungry
+Djãm gu bamã prãm kĩnh		We (you and me) like this
+Djãm gu bamã prãm uma		We (you and me) are scared
+Djãm gu bamã prãm kurê		We (you and me) hate (somebody/this)
+Djãm gu bamã prãm abê		We (you and me) love (somebody/this/this one)
+Djãm gu bamã prãm kaprĩ		We (you and me) feel sorry (for this one)
+Djãm gu bamã prãm ành		We (you and me) really like this
+Ta ne kum prãm	That one is hungry
+Ta ne kum kĩnh	That one like this
+Ta ne kum uma	That one is scaried
+Ta ne kum kurê	That one hates (someone)
+Ta ne kum abê	That one loves (someone)
+Ta ne kum kaprĩ	That one penalizes himself (for someone)
+Ta ne kum ành	 That one really like this
+Mrãmri ne ar kum prãm.	It's true that they (few) are hungry
+Mrãmri ne gwaj bamã prãm.	 It's true that we (me and you) and few are hungry
+Mrãmri ne me imã prãm	 It's true that we all (except you) are hungry
+Mrâmri ne me amã prãm	 It's true that you all are hungry.
+Mrãmri ne memã prãm It's true that they all are hungry
+Mrãmri ne me bamã prãm. It's true that we (me and you) plus everyone are hungry
+Dja ba amã mỳjja jarẽ ga ama.	 I'll explain something for you
+Ibãm ne kubê bẽnjadjwỳr.		My father is the chief
+Nhym kam ikamy'õ ne me tor djwỳnh.	One of my brothers is the leader of the dances
+Nhym inhingêt 'õ ne ngre nhõ djwỳnh.		One of my great uncles is the leader of the chants
+Kute me ngrer kunĩ mar mexkumrẽx		He knows all of the chants very well
+Tãm ne ba arỳm amã arẽ	I already told this to you
+me tor djwỳnh	 leader of the dances in a festival
+ngre nhõ djwỳnh	 leader of the chants in a festival
+Ibê bẽnjadjwỳr	I'm the chief
+Ibê mànkào mrãnh djwỳnh	I'm a pilot
+Abê ngre nhõ djwỳnh You're the leader of the chants
+Kubê mànkào mrãnh djwỳnh		He's a pilot
+Gu babê mànkào mrãnh djwỳnh We're (you and me) pilots
+Ar ibê bẽnjadjwỳr	 We're (few, except you) chiefs.
+titik djwỳnh		typist
+õmrõ djwỳnh cook
+pĩ jakàr djwỳnh lumberjack
+pĩ jakàr djwỳnh sawyer
+kàmrãnhtyxo mrãnh djwỳnh		driver
+me àkà nhipêx djwỳnh		the one who makes headdress
+kẽnneja this is a stone
+kàneja	this is a canoe
+pi'ôkneja	 this is a paper
+Djãm kẽnneja?	 Is this a stone?
+Kati. Pĩnewa		No, this is a piece of wood
+Djãm arỳm ne tẽ?		Has he already gone?
+Nhym ne tẽ? Who was?
+Arỳm ne tẽ. He already gone
+Mỳkam ne tẽ?		Why did he go?
+Ajbir ne tẽ.		He went right now
+Mỳj me'õ ne tẽ? Who was?
+Djã ne tẽ?	Did he go?
+Djãm amex?	Are you feeling well?
+Nhym ne mex?		Who's feeling well?
+Mỳkam ne punu?	Why are you feeling bad?
+Mỹj me'õ ne mex?		Who's feeling well?
+Mỳj ne ga o dja?		What are you doing?
+Nã bãm õmrõ o dja	 I'm cooking
+Mỳj õmrõnewa?	 What food is it?
+Ngijãdjymẽ djwỳ ngrà.	 It's venice with flour.
+É, akmere. Kwarĩk wãnh kupênh kêt	 Look, akmere. Don’t touch it.
+Õmrõ ne kangro:.		The food is very hot.
+Dja ga anhikra xêr! It'll burn your hand!
+Dja ga rũm dja. Go over there!
+Pĩponh wa'ã dja ba õmrõ dji.		I will put the food in that shelf nearby you.
+Kum aprĩ!	 Be careful!
+Dja ajkapĩ. It's going to spill.
+djir		to put
+kudji	 to put
+kupênh	to touch with hands
+kupê		to touch with hands
+õmrõ		cooked food
+xêt to be burned
+xêr to be burned
+Akato!	Get out!
+On akato!	 Get out!
+Ama!		Listen!
+On ama!	 Listen!
+Abĩ!		Kill!
+On abĩ!	 Kill!
+Nox!		Dive in!
+On nox!	 Dive in!
+Kre!		Plant it!
+On kre!	 Plant it!
+Kapõ!		Sweep!
+On kapõ!	 Sweep!
+Karê!		Brush (it)!
+On karê!	 Brush (it)!
+Arẽ!		Tell!
+On arẽ!	 Tell!
+Arẽ!		Say!
+On arẽ!	 Say!
+Kwarĩk wãnh kupênh kêt! Don't touch
+Rũm dja!		Get out of there!
+Mũm dja!		Get out of there!
+Mã! Go!
+Arek o tẽ!	Keep doing it!
+Imã wa! Go ahead of me!
+Amrẽ tẽ!		Come here!
+Oka!		Come here!
+Apa!		Come here!
+Amrẽ o tẽ!	Bring it! 
+Ajte!	 Do it again!
+Ajte arẽ!	 Repeat what you said!
+Ota!		Look what I have!
+Ota!		Look out!
+Arek dja!	 Stay!
+Adjỹm!	Wait!
+Amĩbêx! Run!
+Kàjmã dja!	Stand up!
+Ẽ!	Hey!
+Ori!		Be careful!
+Maria, nãr anhõ ropno?	Maria, where's your flashlight?
+Inhũrkwãkam ne nõ	 He's at home
+Inhũrkwãkam ne nõ	 She's at home
+Inhõ ropno kêt	I don't have a flashlight
+Akamàt kam dja ga imã anhõ ropno ngã, ba kam kôt tẽ, nẽn?	 This night you give me your flashlight and I will hunt with it, is it OK?
+Mrãmri. It's OK.
+Ẽ, djãm anhõ ropno kadjwỳnh?	 Look, do you have batteries?
+Inhõ ne arỹm rerekre.		Mine are weak.
+Nà	Yes
+Inhõ ropno kadjwỳnh ne mexkumrẽx		My batteries are strong
+Arỳm ne ba itẽmmã	 Then I go
+Ajrã.	 Go then
+On dja ga mry 'õnh bĩ	 Kill an animal soon
+Gê dja ba o bôx ne kam amã kwỳ ngã	When I arrive, I'll give a piece to you
+byr to hold something in the hands
+kuby to hold something in the hands
+inhũrkwã    my own home
+'õnh bĩ to kill something
+Inhõ kikre neja It's my house
+Inhõ ngônh neja It's my pot
+Inhõ kax neja	 It's my basket
+Inhõ pur neja	 It's my farm
+Inhõ kubẽkà neja		It's my cloth
+Inhõ kàx neja	 It's my machete
+Inhõ karaxu neja	 It's my spoon
+Anhõ kikre neja.		It's your house
+Anhõ kubẽkà neja.		It's your cloth
+Kôkôti nhõ kikre neja.	It's Kôkôti's house
+Õ ngônh neja.	 It's his pot.
+Nhym nhõ kikre newa?		Whose house is that?
+Inhõ kikre neja It's my house
+Anhõ kikre neja It's your house
+Õ kikre neja		It's his house
+Ar inhõ kikre neja	It's our house
+Djori anhõ katẽbar? Do you have papaya?
+Djori anhõ katẽbar? Is there papaya?
+Djori anhõ katẽ?		Do you have pumpkin?
+Djori anhõ katẽ?		Is there pumpkin?
+Djori anhõ djwỳ ngrà?	 Do you have flour?
+Djori anhõ djwỳ ngrà?	 Is there flour?
+Inhõ katêbàr kêt.	 I don't have papaya
+Inhõ katẽ kêt.	 I don't have pumpkin
+Inhõ katẽ djwỳ ngrà.	 I don't have flour
+Kati. Kêt.	No, there isn't.
+Ikrã neja.	It's my head
+Ite neja.	 It's my leg
+Ino neja.	 It's my eye
+Ipa neja.	 It's my arm
+Itik neja.	It's my stomach
+Inhikra neja.	 It's my hand
+Ijajkwa neja.	 It's my mouth
+Iprõ neja.	 It's my wife
+Ikamy neja. It's my brother
+Inã neja.	 It's my mother
+Ikra neja.	 It's my son
+Ikra neja.	 It's my daughter
+Ibãm neja.	 It's my father
+Akrã neja.	It's your head
+Ate neja.	 It's your leg
+Ano neja.	 It's your eye
+Apa neja.	 It's your arm
+Atik neja.	It's your stomach
+Anhikra neja.	 It's your hand
+Ajajkwa neja.	 It's your mouth
+Aprõ neja.	 It's your wife
+Akamy neja. It's your brother
+Anã neja.	 It's your mother
+Akra neja.	 It's your son
+Akra neja.	 It's your daughter
+Abãm neja.	 It's your father
+Kôkôti krã neja.		It's Kokoti's head
+Kôkôti te neja.	 It's Kokoti's leg
+Kôkôti no neja.	 It's Kokoti's eye
+Kôkôti pa neja.	 It's Kokoti's arm
+Kôkôti tik neja.	It's Kokoti's stomach
+Kôkôti nhikra neja. It's Kokoti's hand
+Kôkôti jajkwa neja.	 It's Kokoti's mouth
+Kôkôti prõ neja.	 It's Kokoti's wife
+Kôkôti kamy neja. It's Kokoti's brother
+Kôkôti nã neja.	 It's Kokoti's mother
+Kôkôti kra neja.	 It's Kokoti's son
+Kôkôti krã neja.	It's Kokoti's daughter
+Kôkôti bãm neja.	It's Kokoti's father
+Krã neja.	It's his head
+Te neja.	 It's his leg
+No neja.	 It's his eye
+Pa neja.	 It's his arm
+Tik neja.	It's his stomach
+Nhikra neja.	 It's his hand
+Jajkwa neja.	 It's his mouth
+Prõ neja.	 It's his wife
+Kamy neja. It's his brother
+Nã neja.	 It's his mother
+Kra neja.	 It's his son
+Kra neja.	 It's his daughter
+Bãm neja.	 It's his father
+Djãm akrãkam tokry? Do you have headache?
+Djãm atikkam tokry? Do you have stomach ache?
+Ãã Ikrãkam tokry.	 Yes, I have headache
+Ãã Itikkam tokry.	 Yes, I have stomach ache
+Djãm ate punu?	Is your leg bad?
+Ãã. Ite punu.	Yes, my leg is bad.
+Nhym na anã?		Who is your mother
+Inã neja.	 She's my mother
+Ta ne ãmja. The one who is standing
+Ibãm neja.	It's my father.
+Ite neja.	It's my leg.
+Inhõ ropre neja.	It's my dog.
+Inhõ kikre neja.	It's my house.
+Maria, djãm akaprĩre?	 Maria, are you sad?
+Kute akaprĩpyràk		You seem sad
+Ãã, ikaprĩre		Yes, I'm sad
+Ikra kanêkam ne ba ikaprĩre My son is sick and that's why I'm sad
+Djãm arỳm ne ga õ pidjỳ'ỳr tẽ?	Have already you looked for his medicine?
+Ikrakadjyne ba pidjỳ'ỳr tẽ nhym arỳm kàjbê mex	I have already looked for medicine for him and he got a little better
+Mỳj kanê?	 What's his illness?
+Kangrokammẽ kakkam kanê.		He has fever and cough.
+Akatibê gê dja akra mex jabej.	Let's see if he get better tomorrow.
+Ãã, birãm akatibê nhym arỳm mex.		Yes, maybe he'll be fine by tomorrow.
+jabej	 let's see
+Atẽmdjà kamne ba ikaprĩre.	I'm sad because you're leaving.
+Inhõ kikre xêt kamne ba ikaprĩre.	I'm sad because my house burned.
+Imjên djàkre kamne ba ikaprĩre.	I'm sad because my husband is angry
+Inhõ karinhô o bikẽnh kamne ba ikaprĩre.	I'm sad because my tobbaco is destroyed
+Inhõ angà ibê biknor kamne ba ikaprĩre.	I'm sad because my beads are stolen
+Inhõ angà ibê biknor kamne ba ikaprĩre.	I'm sad because my beads are lost
+Atẽmdjà kamne ba ikaprĩre.	I'm sad because you're leaving
+Atẽmdjà kamne ba ikaprĩre.	I'm sad because you're leaving
+Mỳkam ne ga muw?		Why are you crying?
+Mỳkam ne ga atykdjà?		Why are you tired?
+Mỳkam ne ga arek nhỹ?		Why did you stay seated?
+Ikra kanêkam ne ba muw	I'm crying because my son is sick
+Ikra kanêkam ne ba itykdjà	I'm tired because my son is sick
+Ikra kanêkam ne ba arek nhỹ	I stay seated because my son is sick
+Mỳjkadjy ne ga bà'ỳr tẽ?		Why did you go to the woods?
+Mry Kadjy ne ba bà'ỳr tẽ.	 I went to the woods to hunt
+Pidjô Kadjy ne ba bà'ỳr tẽ.	 I went to the woods to fetch fruits
+Kruw Kadjy ne ba bà'ỳr tẽ.	 I went to the woods to get arrow materials
+Mrôti Kadjy ne ba bà'ỳr tẽ.	 I went to the woods to get genipap
+Menh Kadjy ne ba bà'ỳr tẽ.	 I went to the woods to get honey
+Mỳjkadjy ne ga pidjỳ'ỳr tẽ? What did you go look for medicine for?
+Mỳjkadjy ne ga bà? What did you go to the woods for?
+Mỳjkadjy ne ga anhõ kikre? What did you go home for?
+Mỳjkadjy ne ga purmã?	What did you go to farm for?
+Ikra Kadjy ne ba pidjy'ỳr tẽ I went look for medicine for my son
+Mry Kadjy ne ba bà	I went hunting
+Idjàpênh Kadjy ne ba inhõ kikre I went home for working
+Môp Kadjy ne ba purmã	 I went to get yam
+Ije mrj jabej mã ne ba bà'ỳr tẽ	 I went with the purpose of hunting
+Ije ngrwaô byr mã ne ba bà'ỳr tẽ	 I went with the purpose of fetching ngrwaô
+Ije djudjê kênh mã ne ba bà'ỳr tẽ	 I went with the purpose of straightening an arc
+Ije pi mẽnh mã ne ba bà'ỳr tẽ	 I went with the purpose of cutting firewood
+Ije mẽnh nhõpô mã ne ba bà'ỳr tẽ	 I went with the purpose of fetching bee honey
+Ije bô kabôr mã ne ba bà'ỳr tẽ	 I went with the purpose of opening straw
+Amũ akati ja'ã ne ba tẽ.		I went yesterday.
+Pi'ôk tyk ny'ã ne ba tẽ.		I went Monday.
+Pi'õk ràràr'ã ne ba tẽ.		I went Saturday.
+Pi'ôk kamrêk'ã ne ba tẽ.		I went Sunday.
+Akati ja'ã ne ba tẽ.		I went today.
+Amrẽbê ne ba tẽ.		I went a long time ago.
+Akatibê dja ba tẽ.	I'll go tomorrow
+Pi'ôk tyk nykam dja ba tẽ.	I'll go Monday
+Pi'ôk ràràrkam dja ba tẽ.	I'll go Saturday
+Pi'ôk kamrêkkam dja ba tẽ.	I'll go Sunday
+Akati'õkam dja ba tẽ.	I'll go one of these days"
+ngô tàm flood season
+na tỹm	flood season
+amex		summer
+bày prỳ kamrêk	time when corn turns red
+bày ngrà		time when the corn dries
+kum ngo rainy season
+Kryràm ne me nire purmã mõ nhym me my mry jabej mõ	Early in the morning, the women went to the fields and the men went hunting
+Nhym kam kàjmã myt nhỹrkam ne me nire arỳm jàt gan aringro tỳxkam ajte krĩmã bôx	By around 10:00 a.m., the women had already roasted the sweet potatoes, and when the sun was strong, they returned to the village
+Nhym myt ibô nhym kam pĩ ngrà'ỳr mõ.		In the afternoon the women went to collect firewood.
+Mry bôrkadjy me pĩ ngrà'ỳr mõ	 They went looking for firewoods to roast the meat
+Nhym kam amykrykam ne me my bàkurũm bôx.		Then in the afternoon, the men arrive from the woods
+Nhym kam me nire parakam arek mry djàro dja.		At dusk, the women were roasting the meat.
+Nhym akamàt ngrirekam me kunĩ 'õ kwỳ krẽno nhỹ	Soon after dusk everyone were eating
+Nhym akamàt bar arek inhõto nõ	At night everyone slept
+akamàt	at night
+akamàt ngrire	 after dusk
+aringro tỳx when the sun is hot
+kàjmã myt nhỹr	around ten o'clock
+Mỳj myt nhỳrkam ne ga bôx?	When did you arrive?
+Ajbir ne ba bôx.	 I arrived right now
+Kryràm ne ba bôx.	 I arrived in early morning
+Kàjmã myt nhỹrkam ne ba bôx.	 I arrived around 10:00 a.m.
+Myt ibôkam ne ba bôx.	 I arrived in the afternoon
+Amykrykam ne ba bôx.	 I arrived in the evening
+Parakam ne ba bôx.	 I arrived at dusk
+Akamàt ngrirekam ne ba bôx.	 I arrived after dark
+Akamàtkam ne ba bôx.	 I arrived at night
+Djãm ajbir ne ga bôx?	 Did you arrived now?
+akati tẽ		almost at dawn
+akati	 the day
+akamàt kô ipôkri		late at night
+Mỳj newa?	 What's this?
+Pi'ôk no'ôk djà neja.	 It's a pen.
+Pi'ôk no'ôk djà neja.	 It's a pencil.
+Titik djà neja.	 It's a typewriter.
+Me kabẽn mar djà neja.	 It's a recorder.
+Me kabẽn mar djà neja.	 It's a radio.
+Kayr djà neja.	 It's a sewing machine.
+Pĩ jakàr djà neja.	 It's a saw.
+Me kamjỳr djà neja.	 It's a sewing syringue
+Krĩraxkurũm ne me bôx	 They all arrived from city
+Kryràm ne ba bàkurũm bôx	 I arrived from the woods in early morning
+Nãr, _____. What is _____?
+Djã nã gãm mỳjjao akno? Did you lose something?
+Bir, ba te inhõ karaxu jabej mrã.	 Well, I looking for my spoon and I don't find it
+Birãm ikra ibê o akno.	Maybe my son have thrown away.
+Djãm arỳm ne ga pĩponh'ã abejne kikre bu'ã abejne pry'ã abej?	 Have you looked at the table and around the house and on the way?
+Ãã, ba arỳm mỳjja kunĩ kamũ.		Yes, I have already examined everything.
+Ba arỳm kàkam ne ngônhkam abej ne kum ikator kêt.	 I looked in the basket and in the pot and I don't find it.
+Ota.		Look.
+Mỳj ne pĩ ngrà'ã mõ?		What is that thing in the firewood?
+Tãm ne ja.	That's the one.
+Arỳm ne ba ikĩnh.	 Now I'm happy.
+Pĩ ngrà parbêbit ne ba omũ. Pĩ ngrà nhiby'ã ne ije omũnh kêt.	 I looked only at the firewood pile but I didn't look on top of firewood
+kunĩ		everywhere
+Nhãr ngônh? Where's the pot?
+Nhãr karaxu?		Where's the spoon?
+Nhãr pi'ôk no'ôk?	 Where's the paper?
+Nhãr pi'ôk no'ôk?	 Where's the book?
+Nhãr parkà? Where's the shoes?
+Nhãr katõk? Where's the shotgun?
+Wãnh ne ngônh dja	 The pot is there 
+Wãnh ne kawa dja.	 The pestle is there
+Wãnh ne kà nõ	 The basket is there
+Wãnh ne ngônh dja	 The gourd is there
+Wãnh ne ngõkon wajêt	 The pot is there
+Kà krakri ne dja		It's below the basket
+Pĩ parbê ne dja It's at the foot of the tree
+Pĩponh nhiby'ã ne dja	 It's on the table
+Ngô mỳrri ne dja		It's on the riverbank
+Ki jatãri ne dja		It's next to the oven
+Kuwy mỳrbè wajêt		It's over the fire.
+Kati. Pĩ parbê kàx nõ.	No, the manchet is at the foot of the tree.
+Ikra ibê tyk.	 My son died to me.
+Ikra ibê tẽ.	 My son is gone from me
+Ikra ibê tỹm.	 My son is fallen to me.
+Akra abê tyk.	 My son died to him
+Akra abê tẽ.	 My son is gone to him
+Akra abê tỹm.	 My son is fallen to him
+Kôkôti kra kubê tyk.		Kôkôti's son died to him
+Kôkôti kra kubê tẽ.		Kôkôti's son is gone to him
+Kôkôti kra kubê tỹm.		Kôkôti's son is fallen to him
+Mẽ'õ abê tyk		Someone died to him.
+Mẽ'õ ibê tyk		Someone died to me.
+Mẽ'õ kubê tyk		Someone died to him.
+Mẽ'õ Kôkôtibê tyk		Someone died to him.
+Mẽ'õ bẽnjadjwỳrbê tyk		Someone died to him.
+Me'õ ibê inhõ mryo akĩ. Someone stole my meat from me.
+Me'õ ibê inhõ mryo abdju. Someone hid my meat from me.
+Me'õ ibê inhõ mryo tẽ. Someone leave my meat from me.
+Me'õ ibê inhõ mryo ajkẽ. Someone destroy my meat from me.
+Djã ne ga mỳjja o akno?		Did you lose something
+Warikokoja ne ba o aknon arỳm kum ikato Yes, I lose the smoking pipe, but I already found it
+ã bãm abãm nhidji o akno.	 I forgot your father's name.
+Jãnh ne gar mõ? Where are you from?
+Onij ngôtyktikurũm ne bar mõ		We're arriving from Ngôtykti river.
+Mỳjkadjy ne gar mõ? What did you go for?
+Ar ije tep o idjàbirmã ne bar mõ.	 We went for fishing.
+Djã ne gãm ar te mõn akubyn mõ? Did you go in vain and come back?
+Ari kati!	 No way.
+Tep ne kumex!	 We find a lot of fish!
+Tep punũtimẽ tetyktimẽ tepikôt ne bar o mõ no bôx	 We brought the catfish, the piranha and the peacock bass.
+Djãm arỳm ne me amã tep 'õ ngã? Did they give you a fish?
+Kati. Me kuta imã õr kêt.	 No, they don't give me anything.
+Je! What a thing!
+Ikrakôt dja ba amã tep jano.		I will send one to you with my son.
+Mỳjkurũm ne gar mõ? Where are you from?
+Pyka jaka bar mõ.	 We arrive from white earth region.
+Purmã ne ba tẽ. I'm going to the farm.
+Jãm ne ga tẽ?	 Where are you going to?
+Jãnh ne ga tẽ?	Where do you come from
+Purkurũm ne ba tẽ	 I'm come from the farm
+Kôkôti ne nã ro'ã àpênh.		Kôkôti works with her mother
+Kôkôti ne kanikwỳnh ro'ã àpênh.		Kôkôti works with her sister
+Kôkôti ro'ã ngônhmã tẽ	Kôkôti went to the river with him
+Kôkôti ro'ã mànkà'ỳr tẽ		Kôkôti went to the plane with him
+Djãm ngrêre?		Are they few?
+Kati. Kumex.		No, they're a lot
+Krãptĩ	They're a lot
+Djãm 'ire?	 Is he lean?
+Ĩptĩ		It's fat
+Ti	It's big
+Rax It's big
+Abatành It's huge
+Kre rax It's large
+Prêk		It's tall.
+___, mỳj ne mĩkam kute? How is it the alligattor way
+Mĩne punu	 the alligattor is ugly
+Nãm kjêti. Nãm inhu jabjê.	He has thick legs and a long mouth.
+Nãm amy jabjê.	He has a long tail too.
+Nãm a'uri no mjõto ikwã.		During the day, he keeps his eyes closed
+Djãm mĩ mexgot! The alligator isn't a good thing, no.
+Nà, bar mĩ pymaje prõt ne	 Yes, we run afraid of the alligator
+Djãm me kute kur?	 Did we eat him?
+Kati. Me kute kur kêt.	No, we don't eat him
+Mỳj ne wakõkam kute?		How is it the coati way?
+Wakõ ne kĩ kamrêk ne		The coati has red hair
+Kwỳ kĩ kamrêk ne kwỳ kĩ krakri kakrãtyk.		Some has red hairs and others has black hairs underneath.
+Djãm me kute kur?	 Did we eat him?
+Nà. Me kute kur.		Yes, we eat him
+kamrêk	red beginning
+Mỳj ne pãnh kute?	 How much does it cost?
+Mỳj ne djudjê pãnh kute?		How much does the arc cost?
+Ta ne pãnh 20.	That thing costs 20.
+Katõk'y pãnh 20.		The candies costs 20
+Mỳj ne nhidji kute? What is his name?
+Mỳj ne nhidji kute? What is that one's name?
+Nhidjibê ne João		His name is João
+Mỳj ne ga tawa on?	How do you do that thing?
+Mỳj ne ga adjàpênh on?	How do you do your work?
+Ba amã môp kaba.		I took some cara for you.
+Ba amĩm môp kaba.		I took some cara for me.
+Ba amim kuby.	 I got it for me.
+Ba amim kay.	 I sewed it for me.
+Me aben tak They fought
+Me abenmã kabẽn They talked
+Me abenmã 'ã karõ	They planned
+Me abenkam ngryk They got angry
+Me kwatỳnh me'ỳr ban bôx ne kam me kra'ã memã kabẽn ne	 The grandmas go to them and they talk about their children.
+Me kwatỳnh me'ỳr ban bôx ne kam me kra'ã memã kabẽn ne	 The aunts go to them and they talk about their children.
+Nhym me kam me êje tor krĩ. Then they dance to honor the children.
+Nã bãm kum, So I ask him,
+Mỳj'ã ne me amĩjaprã? Djãm kaprãn'ã? ane. Nhym kam, "What meat did they end the party with? Was it with tortoise?" Then,
+Kati. Nãm me ate amrẽ me'õ'ã tep'ỳr tẽ. "No, they went looking for fish to use as food for the party climax"
+Ba kam kum, I told him
+Mỳj me'õ kra djêje ne me amĩjaprã? ane. Nhym kam		"Whose was the child honored in the party?"
+Be, ar àtẽk djêje ne me amĩjaprã.	 "Well, it was their àtẽk that was honored in the party."
+amĩjaprã		make the highlight of a party
+Mỳj me'õ'ã ne me keket? Who are they laughing at?
+Mỳj me'õ'ã ne me kabẽn? Who are they talking about?
+Kra'ã ne me keket	 They're laughing at the child
+Kra'ã ne me kabẽn	 They're talking about the child
+Mỳj'ã ne me amĩjaprã?	 What did they end the party with
+Kaprãn'ã ne me amĩjaprã.		They ended it with the tortoise.
+Angrô ne me amĩjaprã.		They ended it with the jawbone.
+Tep ne me amĩjaprã.		They ended it with the jawbone.
+Mry ne me amĩjaprã.		They ended it with the meat.
+Kôkôti ne 'ã kabẽn. Kôkôti told about him.
+Kôkôti ne ijã kabẽn.		Kôkôti told about me.
+Kôkôti ne ajã kabẽn.		Kôkôti told about you.
+Kôkôti ne me'ã kabẽn.		Kôkôti told about them.
+Kôkôti ne 'ã ngryk.	Kôkôti got angry
+Kôkôti ne 'ã karõ.	Kôkôti planned it.
+Kôkôti ne 'ã ku'uw.	Kôkôti asked for it.
+Kôkôti ne 'ã kuta.	Kôkôti open it.
+Kôkôti ne 'ã kudja.	Kôkôti threw it for him.
+Mỳj me'õ ne ga o akamy? Who do you call brother?
+Mỳj me'õ ne ba o nã? Who do I call mother?
+Mỳj me'õ ne Kôkôti o bãm? Who does Kôkôti call father?
+Mỳj me'õ ne ga o akamy? Who do you call brother?
+Kôkôti ne ba ije o ikamy.	 I call Kôkôti my brother
+Kôkôti ne ba ije o inã.	 I call Kôkôti my mother
+Kôkôti ne ba ije o ibãm.	 I call Kôkôti my father
+Mỳj ne ga Kôkôti o? How do you call Kôkôti?
+Mỳj ne ba Kôkôti o? How do I call Kôkôti?
+Ije o ibãm. I call him my father
+Aje o abãm. You call him my father
+Kute o bãm. He calls him my father
+Nhym nã tẽ? Who was it?
+Ba ne ba tẽ I went myself
+Ba ne ba bôx		I arrived myself
+Ba ne ba ikabẽn		I told it myself
+Ba ne ba kubĩ		I killed him myself
+Ba ne ba idjàpênh		I worked myself
+Ba ne ba karê		I weeded it myself
+Ba ajbit ne ba tẽ.	Only I went
+Ba ajbit ne ba bôx.	Only I arrived
+Ba ajbit ne ba ikabẽn.	Only I spoke
+Ba ajbit ne ba kubĩ.	Only I killed him
+Ba ajbit ne ba idjàpênh.	Only I worked
+Ba ajbit ne ba karê.	Only I weeded
+Ba ajbit ne ba bôx.	Only I arrived
+Bar tẽ, ga kam bôx. We went and you arrived.
+Ga tẽ, bar kam bôx. You went and we arrived.
+Ba me tẽ, gar kam bôx.	We all went and you all arrived.
+Ga me tẽ, ba me kam bôx.		You all went and we all arrived.
+Gar tẽ, ba me kam bôx.	You went and we all arrived.
+Bar tẽ nhym kam bôx.		We went than he arrived
+Ba me tẽ nhym kam bẽnjadjwỳr bôx.		We all went than the boss arrived
+Gar tẽ nhym kam ar bôx.		You went than they arrived
+Gar tẽ nhym kam mànkà bôx.		You went than the airplane arrived
+Nhym kam me'õja, mak kute kanhwỳrja, àmra o nõ. Then that one — the one who was stung by the scorpion — lay down groaning
+Nhym kam me'õja, ropre kute nhãnhja, àmra o nõ. Then that one — the one who was bitten by the dog — lay down groaning
+Nhym kam me'õja, ropkrori kute nhãnhja, àmra o nõ. Then that one — the one who was bitten by the ounce — lay down groaning
+Nhym kam me'õja, mĩ kute nhãnhja, àmra o nõ. Then that one — the one who was bitten by the alligator — lay down groaning
+Nhym me'õ abatànhja me totokbê tẽn bôx. Then that one - the big one - arrived soon after us.
+Nhym me'õ prêkja me totokbê tẽn bôx. Then that one - the tall one - arrived soon after us.
+Nhym me'õ katykja me totokbê tẽn bôx. Then that one - the tired one - arrived soon after us.
+Nhym me'õ partãtãkja me totokbê tẽn bôx. Then that one - the one whose feet was hurting - arrived soon after us.
+Tô be	 then
+Tô be	 Are you seeing it?
+be	 then
+be	 Are you seeing it?	
+Tuka		then
+Tuka		Are you seeing it?
+tukwa	 then
+tukwa	 Are you seeing it?
+Je tô mỳj nã		What's it!
+Djô mỳj nã	What's it!
+Wajre	 expression
+Djuk wajre	expression
+Bep but...
+Kwep		but...
+Kapôt kukritmã ne ba tẽ.		I went to the plateau.
+Inhõ kritteo tẽ.		I took my dogs.
+Nhym kam pàtjao mõn o dja.	The the dogs were behind an anteater and cornered him.
+Ba kam kubĩ.		Then I killed him.
+Ne kam akubyn kutuno mõno bôx.	After I come back carrying him in my back and arrived.
+Nhym kam me imã,		Then the other asked me
+Jãm ne ga tẽ? ane.	Ba kam kum,	Where did you go? And I answered him.
+Kapôt kukritmã ne ba tẽ.		I went to the plateau
+Onijkam mry kumex, ane. There is a lot of hunting there
+Ã memã ane. So I told them
+kritte	pet
+Ba katõko pàt bĩ.	 I killed the anteater with the shotgun
+Ba kôo pàt bĩ.	 I killed the anteater with the staff
+Ba kẽno pàt bĩ.	 I killed the anteater with the stone
+Ba kruwo pàt bĩ.	 I killed the anteater with the arrow
+Ba pĩo pàt bĩ.	 I killed the anteater with a piece of wood
+Onij kapôt kukritmã ne ba tẽ.	 I went to the plateau far away.
+Katõk mexjao ne ba pàtja kubĩ.	I killed the anteater with that good shotgun.
+Kôkôti kute mry pumũnh mex ne.	Kôkôti knows a lot about the animals.
+Nãm bàkam ar mrã ne tebê mry 'õnh bĩ.	 When he goes hunting, he kill an animal soon.
+Djãm mrybit ne Kôkôti kute pumũnh?	Does he only know things about the animals?
+Ari kati!	 No way!
+Nãm kukônh nhipêx pumũ. He knows how to weave the masks of the monkeys.
+Nãm kute kupip kayr pumũnh	He knows how to weave sleeping mats.
+Nãm kute djudjê nhipêx pumũnh.	He knows how to do bows
+Djãm Kôkôti kute mỳjja mar ngrigot! Kôkôti really knows a lot!
+Djãm no punũgot!		He's very smart.
+no punũ to be foolish
+Kôkôti kute pi'ôk no'ôk pumũnh. Kôkôti knows how to read.
+Kôkôti kute pi'ôk no'ôk pumũnh. Kôkôti knows how to write.
+Kôkôti kute pry pumũnh. Kôkôti knows how the path.
+Ba ije pi'ôk no'ôk pumũnh.	I know how to read.
+Ba ije pi'ôk no'ôk pumũnh.	I know how to write.
+Ga aje pi'ôk no'ôk pumũnh.	You know how to read.
+Ga aje pi'ôk no'ôk pumũnh.	You know how to write.
+Djãm Kôkôti kute kabẽn? Does Kôkôti know the speeches?
+Djãm Kôkôti kute me ngrer mar? Does Kôkôti know the chants?
+Djãm Kôkôti kute me kane? Does Kôkôti know how to treat illnesses?
+Djãm ga aje me ngrer mar?	 Do you know tha chants.
+Arỳm ne djwỳ kangro mõ. The food comes to be hot.
+Arỳm ne bày ngrâ mõ.		The corn comes to be dry.
+Arỳm ne bày kamrêk mõ.	The corn comes to be red.
+Arỳm ne bày prêk mõ.		The food comes to be tall.
+Arỳm ne kra nhĩpti mõ.	The kid comes to be fat.
+Arỳm ne kra abatành mõ. The kid comes to be big.
+Arỳm ne aringro tỳx mô. It becomes a hot day.
+Arỳm ne akati.	 It becomes the day.
+Arỳm ne akamàt.	 It becomes the night.
+Gwaj on!		Let's go!
+Ba inhõ kwỳ krẽn pamã.	Wait until I finish eating, ok!
+Ba ngônh pyror põnh pamã.		Wait until I finish washing the dishes, ok!
+Ba pi'ôk no'ôk pumũnh pamã.		Wait until I finish reading it, ok!
+Ba arek dja.		I stand up.
+Ba arek nhỹ.		I sit down.
+Ba arek nõ.		I lie down.
+Ba arek iku'ê.		I usually stand up.
+Ba arek krĩ.		I usually sit down.
+Ba arek ikwã.		I usually lie down.
+Arỳm ne tẽ.		 He's already gone
+Arỳm ne ga tẽ.	You've already gone
+Arỳm ne gu tẽ. You and me have already gone
+Arỳm ne ba tẽ. I've already gone
+Arỳm ne me mõ.	They've already gone
+Arỳm ne gar mõ.	You've already gone
+Arỳm ne ga me mõ.	You all have already gone
+Arỳm ne ba me mõ.	We all have already gone
+Arỳm ne gu me mõ.	You, me and everyone have already gone
+Arỳm ne kikrekam wadjà. He's already entered in the house.
+Arỳmne me kikrekam wangij.	They've already entered in the house.
+bê	to the detriment of
+neja		that is
+mexkumrẽx	 very good
+kêt truly
+Mỳj ne kam kute?		How is it the thing?
+Mỳj ne ga ta on?		How do you do such a thing?
+Mỳj'ã?	Whose?
+Mỳj'ã?	With whom?
+Mỳ? What do you want?
+Anhõ ka o nõ.	 Lie on your back.
+Atu mỳrbê tỹm ne nõ.		Lie on your stomach.
+Ano ngõr.	 Close the eyes.
+Kum aprĩ gê ngo kêt.		Don't get it wet
+O djuwamex. Kwarĩk wãnh ngo kêt gê kakrãtyk kêt.		Don't get it dirty.
+Akati dja ga akubyn tẽ. Come back tomorrow.
+Inhĩarop.	 I have a cold.
+Nã bãm ikuw.		I'm with dysentery.
+Kangã ne inhã.	A snake stung me
+djwỳ ngrà	 cassava flour
+gu badjàpênho nhỹ	 Let's start our work.

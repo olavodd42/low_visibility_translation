@@ -5,6 +5,19 @@ import re
 from tqdm import tqdm
 from langdetect import detect, LangDetectException
 
+def validate_entry(example):
+    try:
+        if (
+            len(example["en"].strip()) < 10 or
+            len(example["txu"].strip()) < 10 or
+            example["en"].strip().lower() == example["txu"].strip().lower()
+        ):
+            return False
+        lang = detect(example["txu"])
+        return lang != "en"
+    except:
+        return False
+
 
 def convert_to_txt(pdf_file, txt_file):
     """
@@ -99,14 +112,29 @@ parallelize("data/eng.txt", "data/txu.txt", "data/parallel.txt")
 data_path = "data/parallel_clean.txt"
 clean_parallel("data/parallel.txt", data_path)
 
-# Load and split dataset
-data = load_dataset(
+data_txt = load_dataset(
     "csv",
     data_files=data_path,
     delimiter="\t",
     column_names=["en", "txu"],
     split="train"
-).train_test_split(test_size=0.1, seed=42)
+)
+
+extra = load_dataset(
+    "csv",
+    data_files="data/txu_samples.csv",  # troque pelo nome real
+    delimiter=",",
+    column_names=["txu", "en"],  # coluna 0 = txu, coluna 1 = en
+    split="train",
+)
+
+extra = extra.map(lambda ex: {"en": ex["en"], "txu": ex["txu"]})
+
+extra = extra.filter(validate_entry)
+data = concatenate_datasets([data_txt, extra])
+
+# Split
+data = data.train_test_split(test_size=0.1, seed=42)
 
 print('Train-test sets:')
 print(data)
