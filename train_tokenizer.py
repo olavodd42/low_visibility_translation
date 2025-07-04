@@ -4,7 +4,7 @@ import sentencepiece as spm
 spm.SentencePieceTrainer.Train(
     input="data/kayapo_corpus.txt",
     model_prefix="txu_tokenizer",
-    vocab_size=2000,
+    vocab_size=4000,
     model_type="unigram",
     character_coverage=1.0,        # cobre todos os caracteres
     bos_id=1,
